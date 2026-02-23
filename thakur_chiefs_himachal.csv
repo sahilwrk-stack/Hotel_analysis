@@ -1,0 +1,581 @@
+Order_ID,Hotel_Name,City,Dish_Name,Category,Variant,Base_Price,Packing_Charge,Total_Price,Packed_Status,Food_Rating
+1,Thakur Chiefs,Himachal Pradesh,Baingan Bharta,Veg,Half,116,0,116,Unpacked,3.5
+2,Thakur Chiefs,Himachal Pradesh,Chicken Korma,Non-Veg,Half,150,50,200,Packed,4.2
+3,Thakur Chiefs,Himachal Pradesh,Mix Veg Curry,Veg,Full,496,50,546,Packed,1.3
+4,Thakur Chiefs,Himachal Pradesh,Egg Curry,Non-Veg,Full,437,50,487,Packed,0.6
+5,Thakur Chiefs,Himachal Pradesh,Chole Bhature,Veg,Full,529,0,529,Unpacked,3.6
+6,Thakur Chiefs,Himachal Pradesh,Chicken Korma,Non-Veg,Half,150,0,150,Unpacked,3.2
+7,Thakur Chiefs,Himachal Pradesh,Chicken Lollipop,Non-Veg,Full,429,50,479,Packed,3.3
+8,Thakur Chiefs,Himachal Pradesh,Prawn Masala,Non-Veg,Full,516,50,566,Packed,4.2
+9,Thakur Chiefs,Himachal Pradesh,Dal Makhani,Veg,Half,124,0,124,Unpacked,5.9
+10,Thakur Chiefs,Himachal Pradesh,Chicken Handi,Non-Veg,Half,289,50,339,Packed,2.3
+11,Thakur Chiefs,Himachal Pradesh,Tandoori Roti,Veg,Full,452,50,502,Packed,2.2
+12,Thakur Chiefs,Himachal Pradesh,Aloo Gobi,Veg,Full,264,50,314,Packed,3.7
+13,Thakur Chiefs,Himachal Pradesh,Veg Biryani,Veg,Half,165,50,215,Packed,2.8
+14,Thakur Chiefs,Himachal Pradesh,Malai Kofta,Veg,Half,316,0,316,Unpacked,5.1
+15,Thakur Chiefs,Himachal Pradesh,Egg Curry,Non-Veg,Half,262,50,312,Packed,4.9
+16,Thakur Chiefs,Himachal Pradesh,Chicken Korma,Non-Veg,Full,251,0,251,Unpacked,1.6
+17,Thakur Chiefs,Himachal Pradesh,Aloo Gobi,Veg,Full,264,50,314,Packed,3.9
+18,Thakur Chiefs,Himachal Pradesh,Matar Paneer,Veg,Full,429,50,479,Packed,1.6
+19,Thakur Chiefs,Himachal Pradesh,Palak Paneer,Veg,Full,221,0,221,Unpacked,5.4
+20,Thakur Chiefs,Himachal Pradesh,Matar Paneer,Veg,Full,429,50,479,Packed,6.0
+21,Thakur Chiefs,Himachal Pradesh,Rajma Chawal,Veg,Full,290,50,340,Packed,4.5
+22,Thakur Chiefs,Himachal Pradesh,Chicken Handi,Non-Veg,Half,289,50,339,Packed,3.8
+23,Thakur Chiefs,Himachal Pradesh,Chicken Korma,Non-Veg,Full,251,50,301,Packed,2.3
+24,Thakur Chiefs,Himachal Pradesh,Chicken Tikka Masala,Non-Veg,Full,261,0,261,Unpacked,5.8
+25,Thakur Chiefs,Himachal Pradesh,Chicken Handi,Non-Veg,Half,289,50,339,Packed,4.1
+26,Thakur Chiefs,Himachal Pradesh,Chicken Biryani,Non-Veg,Full,165,0,165,Unpacked,0.7
+27,Thakur Chiefs,Himachal Pradesh,Baingan Bharta,Veg,Half,116,0,116,Unpacked,0.0
+28,Thakur Chiefs,Himachal Pradesh,Mutton Biryani,Non-Veg,Full,163,50,213,Packed,3.0
+29,Thakur Chiefs,Himachal Pradesh,Chole Bhature,Veg,Full,529,50,579,Packed,0.9
+30,Thakur Chiefs,Himachal Pradesh,Egg Curry,Non-Veg,Half,262,50,312,Packed,3.6
+31,Thakur Chiefs,Himachal Pradesh,Butter Naan,Veg,Half,219,50,269,Packed,5.6
+32,Thakur Chiefs,Himachal Pradesh,Mutton Curry,Non-Veg,Full,509,50,559,Packed,0.3
+33,Thakur Chiefs,Himachal Pradesh,Mutton Curry,Non-Veg,Half,305,50,355,Packed,4.4
+34,Thakur Chiefs,Himachal Pradesh,Prawn Masala,Non-Veg,Half,309,50,359,Packed,0.8
+35,Thakur Chiefs,Himachal Pradesh,Butter Naan,Veg,Half,219,0,219,Unpacked,3.2
+36,Thakur Chiefs,Himachal Pradesh,Chicken Tikka Masala,Non-Veg,Full,261,50,311,Packed,5.6
+37,Thakur Chiefs,Himachal Pradesh,Egg Curry,Non-Veg,Half,262,0,262,Unpacked,2.4
+38,Thakur Chiefs,Himachal Pradesh,Fish Curry,Non-Veg,Full,408,0,408,Unpacked,5.4
+39,Thakur Chiefs,Himachal Pradesh,Tandoori Roti,Veg,Half,271,50,321,Packed,1.3
+40,Thakur Chiefs,Himachal Pradesh,Mix Veg Curry,Veg,Half,297,50,347,Packed,3.5
+41,Thakur Chiefs,Himachal Pradesh,Paneer Butter Masala,Veg,Half,286,50,336,Packed,1.4
+42,Thakur Chiefs,Himachal Pradesh,Mutton Curry,Non-Veg,Half,305,0,305,Unpacked,0.4
+43,Thakur Chiefs,Himachal Pradesh,Palak Paneer,Veg,Full,221,0,221,Unpacked,1.3
+44,Thakur Chiefs,Himachal Pradesh,Rajma Chawal,Veg,Full,290,50,340,Packed,4.7
+45,Thakur Chiefs,Himachal Pradesh,Chicken Korma,Non-Veg,Full,251,50,301,Packed,0.6
+46,Thakur Chiefs,Himachal Pradesh,Fish Curry,Non-Veg,Full,408,0,408,Unpacked,2.5
+47,Thakur Chiefs,Himachal Pradesh,Tandoori Roti,Veg,Half,271,50,321,Packed,0.4
+48,Thakur Chiefs,Himachal Pradesh,Mutton Biryani,Non-Veg,Full,163,50,213,Packed,1.5
+49,Thakur Chiefs,Himachal Pradesh,Aloo Gobi,Veg,Full,264,50,314,Packed,2.5
+50,Thakur Chiefs,Himachal Pradesh,Malai Kofta,Veg,Full,527,50,577,Packed,5.2
+51,Thakur Chiefs,Himachal Pradesh,Shahi Paneer,Veg,Full,162,50,212,Packed,0.3
+52,Thakur Chiefs,Himachal Pradesh,Chicken Biryani,Non-Veg,Half,99,50,149,Packed,5.6
+53,Thakur Chiefs,Himachal Pradesh,Chicken Handi,Non-Veg,Half,289,50,339,Packed,2.4
+54,Thakur Chiefs,Himachal Pradesh,Butter Naan,Veg,Half,219,0,219,Unpacked,5.4
+55,Thakur Chiefs,Himachal Pradesh,Veg Biryani,Veg,Full,275,50,325,Packed,5.9
+56,Thakur Chiefs,Himachal Pradesh,Malai Kofta,Veg,Full,527,0,527,Unpacked,2.5
+57,Thakur Chiefs,Himachal Pradesh,Mutton Biryani,Non-Veg,Full,163,50,213,Packed,1.1
+58,Thakur Chiefs,Himachal Pradesh,Aloo Gobi,Veg,Half,158,50,208,Packed,4.5
+59,Thakur Chiefs,Himachal Pradesh,Dal Makhani,Veg,Half,124,0,124,Unpacked,3.0
+60,Thakur Chiefs,Himachal Pradesh,Chicken Handi,Non-Veg,Half,289,50,339,Packed,5.8
+61,Thakur Chiefs,Himachal Pradesh,Shahi Paneer,Veg,Half,97,50,147,Packed,3.6
+62,Thakur Chiefs,Himachal Pradesh,Fish Curry,Non-Veg,Half,244,0,244,Unpacked,0.7
+63,Thakur Chiefs,Himachal Pradesh,Mutton Curry,Non-Veg,Half,305,50,355,Packed,3.7
+64,Thakur Chiefs,Himachal Pradesh,Baingan Bharta,Veg,Full,194,0,194,Unpacked,1.2
+65,Thakur Chiefs,Himachal Pradesh,Chicken Curry,Non-Veg,Full,458,50,508,Packed,1.6
+66,Thakur Chiefs,Himachal Pradesh,Rajma Chawal,Veg,Full,290,0,290,Unpacked,1.9
+67,Thakur Chiefs,Himachal Pradesh,Egg Curry,Non-Veg,Half,262,50,312,Packed,2.7
+68,Thakur Chiefs,Himachal Pradesh,Mutton Rogan Josh,Non-Veg,Half,118,50,168,Packed,3.2
+69,Thakur Chiefs,Himachal Pradesh,Butter Chicken,Non-Veg,Full,166,50,216,Packed,5.6
+70,Thakur Chiefs,Himachal Pradesh,Mutton Curry,Non-Veg,Half,305,50,355,Packed,2.2
+71,Thakur Chiefs,Himachal Pradesh,Veg Biryani,Veg,Full,275,0,275,Unpacked,3.7
+72,Thakur Chiefs,Himachal Pradesh,Chicken Korma,Non-Veg,Half,150,0,150,Unpacked,5.6
+73,Thakur Chiefs,Himachal Pradesh,Chole Bhature,Veg,Half,317,0,317,Unpacked,0.7
+74,Thakur Chiefs,Himachal Pradesh,Chole Bhature,Veg,Half,317,0,317,Unpacked,1.7
+75,Thakur Chiefs,Himachal Pradesh,Aloo Gobi,Veg,Full,264,50,314,Packed,4.1
+76,Thakur Chiefs,Himachal Pradesh,Chicken Handi,Non-Veg,Full,482,0,482,Unpacked,1.5
+77,Thakur Chiefs,Himachal Pradesh,Chicken Lollipop,Non-Veg,Half,257,50,307,Packed,3.8
+78,Thakur Chiefs,Himachal Pradesh,Prawn Masala,Non-Veg,Full,516,50,566,Packed,0.0
+79,Thakur Chiefs,Himachal Pradesh,Egg Curry,Non-Veg,Half,262,0,262,Unpacked,1.0
+80,Thakur Chiefs,Himachal Pradesh,Tandoori Roti,Veg,Full,452,50,502,Packed,0.7
+81,Thakur Chiefs,Himachal Pradesh,Mutton Curry,Non-Veg,Half,305,50,355,Packed,5.0
+82,Thakur Chiefs,Himachal Pradesh,Mutton Rogan Josh,Non-Veg,Half,118,0,118,Unpacked,0.8
+83,Thakur Chiefs,Himachal Pradesh,Kadai Paneer,Veg,Full,202,50,252,Packed,5.4
+84,Thakur Chiefs,Himachal Pradesh,Aloo Gobi,Veg,Half,158,50,208,Packed,2.1
+85,Thakur Chiefs,Himachal Pradesh,Chicken Biryani,Non-Veg,Full,165,50,215,Packed,5.6
+86,Thakur Chiefs,Himachal Pradesh,Palak Paneer,Veg,Half,132,50,182,Packed,5.3
+87,Thakur Chiefs,Himachal Pradesh,Paneer Butter Masala,Veg,Half,286,0,286,Unpacked,4.7
+88,Thakur Chiefs,Himachal Pradesh,Baingan Bharta,Veg,Half,116,0,116,Unpacked,1.0
+89,Thakur Chiefs,Himachal Pradesh,Chicken Curry,Non-Veg,Half,274,0,274,Unpacked,5.2
+90,Thakur Chiefs,Himachal Pradesh,Chicken Handi,Non-Veg,Full,482,50,532,Packed,1.2
+91,Thakur Chiefs,Himachal Pradesh,Chicken Lollipop,Non-Veg,Full,429,0,429,Unpacked,1.8
+92,Thakur Chiefs,Himachal Pradesh,Chicken Korma,Non-Veg,Half,150,50,200,Packed,0.1
+93,Thakur Chiefs,Himachal Pradesh,Aloo Gobi,Veg,Full,264,0,264,Unpacked,1.7
+94,Thakur Chiefs,Himachal Pradesh,Shahi Paneer,Veg,Full,162,0,162,Unpacked,3.8
+95,Thakur Chiefs,Himachal Pradesh,Matar Paneer,Veg,Full,429,50,479,Packed,0.7
+96,Thakur Chiefs,Himachal Pradesh,Malai Kofta,Veg,Half,316,0,316,Unpacked,0.2
+97,Thakur Chiefs,Himachal Pradesh,Chicken Tikka Masala,Non-Veg,Full,261,0,261,Unpacked,4.4
+98,Thakur Chiefs,Himachal Pradesh,Mix Veg Curry,Veg,Full,496,50,546,Packed,2.3
+99,Thakur Chiefs,Himachal Pradesh,Mutton Rogan Josh,Non-Veg,Half,118,0,118,Unpacked,0.3
+100,Thakur Chiefs,Himachal Pradesh,Baingan Bharta,Veg,Half,116,50,166,Packed,2.2
+101,Thakur Chiefs,Himachal Pradesh,Shahi Paneer,Veg,Full,162,0,162,Unpacked,4.0
+102,Thakur Chiefs,Himachal Pradesh,Chole Bhature,Veg,Full,529,0,529,Unpacked,4.0
+103,Thakur Chiefs,Himachal Pradesh,Mix Veg Curry,Veg,Full,496,0,496,Unpacked,3.3
+104,Thakur Chiefs,Himachal Pradesh,Aloo Gobi,Veg,Full,264,0,264,Unpacked,4.1
+105,Thakur Chiefs,Himachal Pradesh,Mutton Curry,Non-Veg,Half,305,0,305,Unpacked,2.4
+106,Thakur Chiefs,Himachal Pradesh,Prawn Masala,Non-Veg,Half,309,0,309,Unpacked,1.7
+107,Thakur Chiefs,Himachal Pradesh,Baingan Bharta,Veg,Full,194,0,194,Unpacked,2.7
+108,Thakur Chiefs,Himachal Pradesh,Fish Curry,Non-Veg,Half,244,0,244,Unpacked,4.8
+109,Thakur Chiefs,Himachal Pradesh,Chicken Korma,Non-Veg,Half,150,50,200,Packed,1.7
+110,Thakur Chiefs,Himachal Pradesh,Fish Curry,Non-Veg,Full,408,50,458,Packed,4.9
+111,Thakur Chiefs,Himachal Pradesh,Egg Curry,Non-Veg,Half,262,0,262,Unpacked,1.3
+112,Thakur Chiefs,Himachal Pradesh,Aloo Gobi,Veg,Half,158,50,208,Packed,0.3
+113,Thakur Chiefs,Himachal Pradesh,Butter Naan,Veg,Half,219,0,219,Unpacked,2.5
+114,Thakur Chiefs,Himachal Pradesh,Tandoori Chicken,Non-Veg,Half,161,0,161,Unpacked,3.0
+115,Thakur Chiefs,Himachal Pradesh,Palak Paneer,Veg,Half,132,50,182,Packed,5.4
+116,Thakur Chiefs,Himachal Pradesh,Chicken Handi,Non-Veg,Half,289,0,289,Unpacked,1.3
+117,Thakur Chiefs,Himachal Pradesh,Chicken Korma,Non-Veg,Full,251,50,301,Packed,3.3
+118,Thakur Chiefs,Himachal Pradesh,Chicken Lollipop,Non-Veg,Half,257,0,257,Unpacked,0.8
+119,Thakur Chiefs,Himachal Pradesh,Tandoori Roti,Veg,Full,452,0,452,Unpacked,3.7
+120,Thakur Chiefs,Himachal Pradesh,Mutton Biryani,Non-Veg,Full,163,0,163,Unpacked,5.4
+121,Thakur Chiefs,Himachal Pradesh,Mutton Biryani,Non-Veg,Full,163,0,163,Unpacked,1.6
+122,Thakur Chiefs,Himachal Pradesh,Palak Paneer,Veg,Full,221,0,221,Unpacked,3.8
+123,Thakur Chiefs,Himachal Pradesh,Malai Kofta,Veg,Full,527,50,577,Packed,4.3
+124,Thakur Chiefs,Himachal Pradesh,Palak Paneer,Veg,Full,221,0,221,Unpacked,1.9
+125,Thakur Chiefs,Himachal Pradesh,Chicken Biryani,Non-Veg,Half,99,50,149,Packed,0.9
+126,Thakur Chiefs,Himachal Pradesh,Matar Paneer,Veg,Half,257,50,307,Packed,0.4
+127,Thakur Chiefs,Himachal Pradesh,Baingan Bharta,Veg,Full,194,0,194,Unpacked,2.5
+128,Thakur Chiefs,Himachal Pradesh,Aloo Gobi,Veg,Full,264,0,264,Unpacked,5.4
+129,Thakur Chiefs,Himachal Pradesh,Mutton Rogan Josh,Non-Veg,Half,118,0,118,Unpacked,2.9
+130,Thakur Chiefs,Himachal Pradesh,Veg Pulao,Veg,Full,529,0,529,Unpacked,5.1
+131,Thakur Chiefs,Himachal Pradesh,Prawn Masala,Non-Veg,Full,516,50,566,Packed,2.9
+132,Thakur Chiefs,Himachal Pradesh,Malai Kofta,Veg,Full,527,0,527,Unpacked,0.2
+133,Thakur Chiefs,Himachal Pradesh,Mix Veg Curry,Veg,Full,496,50,546,Packed,5.0
+134,Thakur Chiefs,Himachal Pradesh,Chicken Lollipop,Non-Veg,Half,257,50,307,Packed,5.4
+135,Thakur Chiefs,Himachal Pradesh,Mutton Rogan Josh,Non-Veg,Half,118,50,168,Packed,3.9
+136,Thakur Chiefs,Himachal Pradesh,Rajma Chawal,Veg,Full,290,50,340,Packed,0.3
+137,Thakur Chiefs,Himachal Pradesh,Matar Paneer,Veg,Full,429,50,479,Packed,2.7
+138,Thakur Chiefs,Himachal Pradesh,Mix Veg Curry,Veg,Full,496,0,496,Unpacked,4.5
+139,Thakur Chiefs,Himachal Pradesh,Prawn Masala,Non-Veg,Full,516,0,516,Unpacked,5.0
+140,Thakur Chiefs,Himachal Pradesh,Butter Naan,Veg,Half,219,50,269,Packed,6.0
+141,Thakur Chiefs,Himachal Pradesh,Veg Pulao,Veg,Half,317,50,367,Packed,4.7
+142,Thakur Chiefs,Himachal Pradesh,Tandoori Chicken,Non-Veg,Half,161,50,211,Packed,5.7
+143,Thakur Chiefs,Himachal Pradesh,Aloo Gobi,Veg,Half,158,50,208,Packed,1.4
+144,Thakur Chiefs,Himachal Pradesh,Butter Naan,Veg,Half,219,50,269,Packed,2.8
+145,Thakur Chiefs,Himachal Pradesh,Malai Kofta,Veg,Full,527,50,577,Packed,3.6
+146,Thakur Chiefs,Himachal Pradesh,Mutton Biryani,Non-Veg,Half,97,50,147,Packed,5.8
+147,Thakur Chiefs,Himachal Pradesh,Chole Bhature,Veg,Half,317,0,317,Unpacked,3.5
+148,Thakur Chiefs,Himachal Pradesh,Chicken Lollipop,Non-Veg,Full,429,0,429,Unpacked,5.6
+149,Thakur Chiefs,Himachal Pradesh,Aloo Gobi,Veg,Half,158,50,208,Packed,0.6
+150,Thakur Chiefs,Himachal Pradesh,Egg Curry,Non-Veg,Full,437,50,487,Packed,4.8
+151,Thakur Chiefs,Himachal Pradesh,Mutton Rogan Josh,Non-Veg,Half,118,0,118,Unpacked,3.2
+152,Thakur Chiefs,Himachal Pradesh,Fish Curry,Non-Veg,Full,408,50,458,Packed,3.0
+153,Thakur Chiefs,Himachal Pradesh,Mix Veg Curry,Veg,Half,297,0,297,Unpacked,4.9
+154,Thakur Chiefs,Himachal Pradesh,Chole Bhature,Veg,Full,529,0,529,Unpacked,3.8
+155,Thakur Chiefs,Himachal Pradesh,Prawn Masala,Non-Veg,Full,516,50,566,Packed,2.6
+156,Thakur Chiefs,Himachal Pradesh,Mutton Biryani,Non-Veg,Full,163,0,163,Unpacked,2.8
+157,Thakur Chiefs,Himachal Pradesh,Prawn Masala,Non-Veg,Full,516,0,516,Unpacked,5.1
+158,Thakur Chiefs,Himachal Pradesh,Prawn Masala,Non-Veg,Half,309,0,309,Unpacked,5.3
+159,Thakur Chiefs,Himachal Pradesh,Palak Paneer,Veg,Full,221,0,221,Unpacked,2.0
+160,Thakur Chiefs,Himachal Pradesh,Butter Naan,Veg,Full,366,50,416,Packed,2.9
+161,Thakur Chiefs,Himachal Pradesh,Veg Pulao,Veg,Full,529,0,529,Unpacked,1.7
+162,Thakur Chiefs,Himachal Pradesh,Chicken Tikka Masala,Non-Veg,Full,261,50,311,Packed,3.1
+163,Thakur Chiefs,Himachal Pradesh,Aloo Gobi,Veg,Half,158,50,208,Packed,4.3
+164,Thakur Chiefs,Himachal Pradesh,Butter Naan,Veg,Half,219,0,219,Unpacked,3.9
+165,Thakur Chiefs,Himachal Pradesh,Butter Naan,Veg,Full,366,50,416,Packed,0.6
+166,Thakur Chiefs,Himachal Pradesh,Palak Paneer,Veg,Full,221,50,271,Packed,1.8
+167,Thakur Chiefs,Himachal Pradesh,Mutton Rogan Josh,Non-Veg,Full,197,0,197,Unpacked,3.3
+168,Thakur Chiefs,Himachal Pradesh,Veg Pulao,Veg,Full,529,0,529,Unpacked,2.1
+169,Thakur Chiefs,Himachal Pradesh,Tandoori Roti,Veg,Full,452,0,452,Unpacked,1.5
+170,Thakur Chiefs,Himachal Pradesh,Chole Bhature,Veg,Half,317,0,317,Unpacked,0.7
+171,Thakur Chiefs,Himachal Pradesh,Chicken Biryani,Non-Veg,Half,99,50,149,Packed,1.3
+172,Thakur Chiefs,Himachal Pradesh,Butter Naan,Veg,Full,366,0,366,Unpacked,5.9
+173,Thakur Chiefs,Himachal Pradesh,Prawn Masala,Non-Veg,Half,309,0,309,Unpacked,1.4
+174,Thakur Chiefs,Himachal Pradesh,Veg Biryani,Veg,Full,275,50,325,Packed,4.2
+175,Thakur Chiefs,Himachal Pradesh,Rajma Chawal,Veg,Full,290,50,340,Packed,5.8
+176,Thakur Chiefs,Himachal Pradesh,Chicken Biryani,Non-Veg,Full,165,50,215,Packed,3.8
+177,Thakur Chiefs,Himachal Pradesh,Egg Curry,Non-Veg,Full,437,50,487,Packed,5.2
+178,Thakur Chiefs,Himachal Pradesh,Mutton Rogan Josh,Non-Veg,Full,197,0,197,Unpacked,2.9
+179,Thakur Chiefs,Himachal Pradesh,Mix Veg Curry,Veg,Half,297,50,347,Packed,1.5
+180,Thakur Chiefs,Himachal Pradesh,Chicken Handi,Non-Veg,Full,482,50,532,Packed,4.9
+181,Thakur Chiefs,Himachal Pradesh,Matar Paneer,Veg,Full,429,50,479,Packed,3.5
+182,Thakur Chiefs,Himachal Pradesh,Fish Curry,Non-Veg,Half,244,50,294,Packed,0.9
+183,Thakur Chiefs,Himachal Pradesh,Mutton Rogan Josh,Non-Veg,Full,197,50,247,Packed,6.0
+184,Thakur Chiefs,Himachal Pradesh,Chole Bhature,Veg,Full,529,50,579,Packed,4.7
+185,Thakur Chiefs,Himachal Pradesh,Matar Paneer,Veg,Full,429,0,429,Unpacked,1.8
+186,Thakur Chiefs,Himachal Pradesh,Mutton Rogan Josh,Non-Veg,Full,197,0,197,Unpacked,3.4
+187,Thakur Chiefs,Himachal Pradesh,Dal Makhani,Veg,Half,124,50,174,Packed,3.8
+188,Thakur Chiefs,Himachal Pradesh,Malai Kofta,Veg,Half,316,50,366,Packed,1.4
+189,Thakur Chiefs,Himachal Pradesh,Chicken Biryani,Non-Veg,Half,99,50,149,Packed,0.0
+190,Thakur Chiefs,Himachal Pradesh,Tandoori Roti,Veg,Full,452,0,452,Unpacked,0.2
+191,Thakur Chiefs,Himachal Pradesh,Kadai Paneer,Veg,Full,202,0,202,Unpacked,0.4
+192,Thakur Chiefs,Himachal Pradesh,Palak Paneer,Veg,Full,221,50,271,Packed,2.6
+193,Thakur Chiefs,Himachal Pradesh,Chicken Biryani,Non-Veg,Half,99,50,149,Packed,5.5
+194,Thakur Chiefs,Himachal Pradesh,Prawn Masala,Non-Veg,Half,309,50,359,Packed,0.4
+195,Thakur Chiefs,Himachal Pradesh,Chicken Korma,Non-Veg,Full,251,0,251,Unpacked,2.6
+196,Thakur Chiefs,Himachal Pradesh,Tandoori Roti,Veg,Full,452,0,452,Unpacked,5.7
+197,Thakur Chiefs,Himachal Pradesh,Butter Chicken,Non-Veg,Full,166,0,166,Unpacked,0.5
+198,Thakur Chiefs,Himachal Pradesh,Dal Makhani,Veg,Full,207,0,207,Unpacked,3.6
+199,Thakur Chiefs,Himachal Pradesh,Paneer Butter Masala,Veg,Half,286,50,336,Packed,5.8
+200,Thakur Chiefs,Himachal Pradesh,Prawn Masala,Non-Veg,Half,309,0,309,Unpacked,3.5
+201,Thakur Chiefs,Himachal Pradesh,Egg Curry,Non-Veg,Half,262,0,262,Unpacked,3.1
+202,Thakur Chiefs,Himachal Pradesh,Tandoori Roti,Veg,Full,452,50,502,Packed,6.0
+203,Thakur Chiefs,Himachal Pradesh,Baingan Bharta,Veg,Full,194,50,244,Packed,2.8
+204,Thakur Chiefs,Himachal Pradesh,Baingan Bharta,Veg,Full,194,0,194,Unpacked,4.0
+205,Thakur Chiefs,Himachal Pradesh,Chicken Handi,Non-Veg,Half,289,0,289,Unpacked,2.5
+206,Thakur Chiefs,Himachal Pradesh,Butter Naan,Veg,Full,366,0,366,Unpacked,4.9
+207,Thakur Chiefs,Himachal Pradesh,Chicken Biryani,Non-Veg,Half,99,0,99,Unpacked,0.5
+208,Thakur Chiefs,Himachal Pradesh,Malai Kofta,Veg,Full,527,50,577,Packed,5.8
+209,Thakur Chiefs,Himachal Pradesh,Matar Paneer,Veg,Half,257,0,257,Unpacked,2.5
+210,Thakur Chiefs,Himachal Pradesh,Aloo Gobi,Veg,Full,264,0,264,Unpacked,3.8
+211,Thakur Chiefs,Himachal Pradesh,Egg Curry,Non-Veg,Half,262,50,312,Packed,1.6
+212,Thakur Chiefs,Himachal Pradesh,Rajma Chawal,Veg,Full,290,0,290,Unpacked,5.3
+213,Thakur Chiefs,Himachal Pradesh,Butter Naan,Veg,Half,219,50,269,Packed,5.8
+214,Thakur Chiefs,Himachal Pradesh,Chicken Tikka Masala,Non-Veg,Half,156,50,206,Packed,1.9
+215,Thakur Chiefs,Himachal Pradesh,Paneer Butter Masala,Veg,Full,477,50,527,Packed,1.3
+216,Thakur Chiefs,Himachal Pradesh,Prawn Masala,Non-Veg,Half,309,0,309,Unpacked,5.7
+217,Thakur Chiefs,Himachal Pradesh,Tandoori Chicken,Non-Veg,Half,161,0,161,Unpacked,5.6
+218,Thakur Chiefs,Himachal Pradesh,Kadai Paneer,Veg,Full,202,0,202,Unpacked,5.0
+219,Thakur Chiefs,Himachal Pradesh,Butter Naan,Veg,Half,219,0,219,Unpacked,3.3
+220,Thakur Chiefs,Himachal Pradesh,Matar Paneer,Veg,Half,257,50,307,Packed,5.2
+221,Thakur Chiefs,Himachal Pradesh,Malai Kofta,Veg,Full,527,0,527,Unpacked,5.6
+222,Thakur Chiefs,Himachal Pradesh,Butter Chicken,Non-Veg,Full,166,50,216,Packed,1.7
+223,Thakur Chiefs,Himachal Pradesh,Kadai Paneer,Veg,Full,202,50,252,Packed,2.7
+224,Thakur Chiefs,Himachal Pradesh,Butter Naan,Veg,Full,366,0,366,Unpacked,3.3
+225,Thakur Chiefs,Himachal Pradesh,Chicken Biryani,Non-Veg,Full,165,0,165,Unpacked,5.6
+226,Thakur Chiefs,Himachal Pradesh,Chicken Handi,Non-Veg,Half,289,50,339,Packed,3.4
+227,Thakur Chiefs,Himachal Pradesh,Palak Paneer,Veg,Full,221,50,271,Packed,1.9
+228,Thakur Chiefs,Himachal Pradesh,Butter Naan,Veg,Full,366,0,366,Unpacked,5.9
+229,Thakur Chiefs,Himachal Pradesh,Chicken Korma,Non-Veg,Half,150,0,150,Unpacked,5.8
+230,Thakur Chiefs,Himachal Pradesh,Rajma Chawal,Veg,Full,290,50,340,Packed,5.2
+231,Thakur Chiefs,Himachal Pradesh,Tandoori Roti,Veg,Half,271,0,271,Unpacked,0.1
+232,Thakur Chiefs,Himachal Pradesh,Rajma Chawal,Veg,Full,290,50,340,Packed,0.4
+233,Thakur Chiefs,Himachal Pradesh,Chicken Korma,Non-Veg,Full,251,0,251,Unpacked,3.7
+234,Thakur Chiefs,Himachal Pradesh,Matar Paneer,Veg,Half,257,0,257,Unpacked,5.1
+235,Thakur Chiefs,Himachal Pradesh,Chicken Handi,Non-Veg,Full,482,0,482,Unpacked,3.8
+236,Thakur Chiefs,Himachal Pradesh,Mutton Curry,Non-Veg,Full,509,50,559,Packed,3.7
+237,Thakur Chiefs,Himachal Pradesh,Palak Paneer,Veg,Full,221,50,271,Packed,4.5
+238,Thakur Chiefs,Himachal Pradesh,Baingan Bharta,Veg,Half,116,50,166,Packed,2.7
+239,Thakur Chiefs,Himachal Pradesh,Chicken Curry,Non-Veg,Full,458,50,508,Packed,0.3
+240,Thakur Chiefs,Himachal Pradesh,Chicken Korma,Non-Veg,Half,150,0,150,Unpacked,2.2
+241,Thakur Chiefs,Himachal Pradesh,Baingan Bharta,Veg,Half,116,50,166,Packed,3.2
+242,Thakur Chiefs,Himachal Pradesh,Mutton Rogan Josh,Non-Veg,Half,118,50,168,Packed,1.1
+243,Thakur Chiefs,Himachal Pradesh,Chicken Tikka Masala,Non-Veg,Full,261,50,311,Packed,3.0
+244,Thakur Chiefs,Himachal Pradesh,Mutton Rogan Josh,Non-Veg,Half,118,50,168,Packed,2.8
+245,Thakur Chiefs,Himachal Pradesh,Malai Kofta,Veg,Full,527,0,527,Unpacked,4.0
+246,Thakur Chiefs,Himachal Pradesh,Mutton Curry,Non-Veg,Full,509,0,509,Unpacked,4.1
+247,Thakur Chiefs,Himachal Pradesh,Veg Biryani,Veg,Half,165,0,165,Unpacked,5.7
+248,Thakur Chiefs,Himachal Pradesh,Mutton Rogan Josh,Non-Veg,Full,197,0,197,Unpacked,4.1
+249,Thakur Chiefs,Himachal Pradesh,Tandoori Roti,Veg,Full,452,50,502,Packed,6.0
+250,Thakur Chiefs,Himachal Pradesh,Chicken Handi,Non-Veg,Full,482,50,532,Packed,1.4
+251,Thakur Chiefs,Himachal Pradesh,Mutton Rogan Josh,Non-Veg,Full,197,0,197,Unpacked,6.0
+252,Thakur Chiefs,Himachal Pradesh,Kadai Paneer,Veg,Half,121,0,121,Unpacked,1.6
+253,Thakur Chiefs,Himachal Pradesh,Mutton Rogan Josh,Non-Veg,Half,118,0,118,Unpacked,5.0
+254,Thakur Chiefs,Himachal Pradesh,Mutton Curry,Non-Veg,Full,509,50,559,Packed,3.6
+255,Thakur Chiefs,Himachal Pradesh,Veg Pulao,Veg,Half,317,50,367,Packed,3.7
+256,Thakur Chiefs,Himachal Pradesh,Fish Curry,Non-Veg,Half,244,50,294,Packed,5.4
+257,Thakur Chiefs,Himachal Pradesh,Tandoori Chicken,Non-Veg,Half,161,0,161,Unpacked,4.7
+258,Thakur Chiefs,Himachal Pradesh,Dal Makhani,Veg,Full,207,50,257,Packed,0.5
+259,Thakur Chiefs,Himachal Pradesh,Kadai Paneer,Veg,Full,202,0,202,Unpacked,1.1
+260,Thakur Chiefs,Himachal Pradesh,Rajma Chawal,Veg,Full,290,0,290,Unpacked,5.0
+261,Thakur Chiefs,Himachal Pradesh,Malai Kofta,Veg,Full,527,0,527,Unpacked,4.5
+262,Thakur Chiefs,Himachal Pradesh,Mix Veg Curry,Veg,Half,297,0,297,Unpacked,5.8
+263,Thakur Chiefs,Himachal Pradesh,Rajma Chawal,Veg,Half,174,0,174,Unpacked,5.8
+264,Thakur Chiefs,Himachal Pradesh,Chicken Korma,Non-Veg,Full,251,50,301,Packed,4.7
+265,Thakur Chiefs,Himachal Pradesh,Paneer Butter Masala,Veg,Full,477,50,527,Packed,2.7
+266,Thakur Chiefs,Himachal Pradesh,Fish Curry,Non-Veg,Full,408,0,408,Unpacked,4.9
+267,Thakur Chiefs,Himachal Pradesh,Veg Pulao,Veg,Half,317,50,367,Packed,2.8
+268,Thakur Chiefs,Himachal Pradesh,Chicken Tikka Masala,Non-Veg,Full,261,50,311,Packed,3.9
+269,Thakur Chiefs,Himachal Pradesh,Tandoori Chicken,Non-Veg,Full,269,0,269,Unpacked,3.9
+270,Thakur Chiefs,Himachal Pradesh,Chole Bhature,Veg,Half,317,50,367,Packed,5.7
+271,Thakur Chiefs,Himachal Pradesh,Kadai Paneer,Veg,Full,202,50,252,Packed,0.6
+272,Thakur Chiefs,Himachal Pradesh,Mutton Curry,Non-Veg,Half,305,0,305,Unpacked,2.7
+273,Thakur Chiefs,Himachal Pradesh,Fish Curry,Non-Veg,Full,408,50,458,Packed,5.3
+274,Thakur Chiefs,Himachal Pradesh,Tandoori Chicken,Non-Veg,Half,161,0,161,Unpacked,3.7
+275,Thakur Chiefs,Himachal Pradesh,Malai Kofta,Veg,Half,316,0,316,Unpacked,1.3
+276,Thakur Chiefs,Himachal Pradesh,Tandoori Roti,Veg,Half,271,0,271,Unpacked,0.6
+277,Thakur Chiefs,Himachal Pradesh,Fish Curry,Non-Veg,Full,408,0,408,Unpacked,0.4
+278,Thakur Chiefs,Himachal Pradesh,Malai Kofta,Veg,Half,316,50,366,Packed,5.7
+279,Thakur Chiefs,Himachal Pradesh,Prawn Masala,Non-Veg,Full,516,50,566,Packed,4.0
+280,Thakur Chiefs,Himachal Pradesh,Tandoori Chicken,Non-Veg,Half,161,50,211,Packed,4.7
+281,Thakur Chiefs,Himachal Pradesh,Palak Paneer,Veg,Half,132,50,182,Packed,0.4
+282,Thakur Chiefs,Himachal Pradesh,Egg Curry,Non-Veg,Half,262,50,312,Packed,4.9
+283,Thakur Chiefs,Himachal Pradesh,Palak Paneer,Veg,Full,221,50,271,Packed,4.7
+284,Thakur Chiefs,Himachal Pradesh,Chicken Tikka Masala,Non-Veg,Half,156,0,156,Unpacked,5.2
+285,Thakur Chiefs,Himachal Pradesh,Rajma Chawal,Veg,Half,174,0,174,Unpacked,4.8
+286,Thakur Chiefs,Himachal Pradesh,Chole Bhature,Veg,Half,317,50,367,Packed,0.1
+287,Thakur Chiefs,Himachal Pradesh,Chicken Korma,Non-Veg,Half,150,0,150,Unpacked,0.1
+288,Thakur Chiefs,Himachal Pradesh,Malai Kofta,Veg,Half,316,50,366,Packed,4.5
+289,Thakur Chiefs,Himachal Pradesh,Butter Chicken,Non-Veg,Half,99,50,149,Packed,2.9
+290,Thakur Chiefs,Himachal Pradesh,Egg Curry,Non-Veg,Full,437,50,487,Packed,2.7
+291,Thakur Chiefs,Himachal Pradesh,Palak Paneer,Veg,Half,132,0,132,Unpacked,2.7
+292,Thakur Chiefs,Himachal Pradesh,Paneer Butter Masala,Veg,Half,286,0,286,Unpacked,5.1
+293,Thakur Chiefs,Himachal Pradesh,Baingan Bharta,Veg,Half,116,0,116,Unpacked,4.3
+294,Thakur Chiefs,Himachal Pradesh,Tandoori Roti,Veg,Half,271,50,321,Packed,1.9
+295,Thakur Chiefs,Himachal Pradesh,Rajma Chawal,Veg,Half,174,50,224,Packed,1.7
+296,Thakur Chiefs,Himachal Pradesh,Tandoori Chicken,Non-Veg,Full,269,0,269,Unpacked,6.0
+297,Thakur Chiefs,Himachal Pradesh,Butter Chicken,Non-Veg,Full,166,0,166,Unpacked,3.0
+298,Thakur Chiefs,Himachal Pradesh,Baingan Bharta,Veg,Half,116,50,166,Packed,5.1
+299,Thakur Chiefs,Himachal Pradesh,Tandoori Chicken,Non-Veg,Half,161,0,161,Unpacked,2.7
+300,Thakur Chiefs,Himachal Pradesh,Palak Paneer,Veg,Full,221,0,221,Unpacked,5.0
+301,Thakur Chiefs,Himachal Pradesh,Matar Paneer,Veg,Full,429,50,479,Packed,1.9
+302,Thakur Chiefs,Himachal Pradesh,Mix Veg Curry,Veg,Full,496,0,496,Unpacked,5.7
+303,Thakur Chiefs,Himachal Pradesh,Fish Curry,Non-Veg,Full,408,50,458,Packed,0.5
+304,Thakur Chiefs,Himachal Pradesh,Shahi Paneer,Veg,Half,97,0,97,Unpacked,0.6
+305,Thakur Chiefs,Himachal Pradesh,Mutton Biryani,Non-Veg,Full,163,50,213,Packed,3.3
+306,Thakur Chiefs,Himachal Pradesh,Mutton Rogan Josh,Non-Veg,Full,197,50,247,Packed,2.5
+307,Thakur Chiefs,Himachal Pradesh,Chicken Handi,Non-Veg,Full,482,50,532,Packed,5.8
+308,Thakur Chiefs,Himachal Pradesh,Chicken Tikka Masala,Non-Veg,Full,261,0,261,Unpacked,0.6
+309,Thakur Chiefs,Himachal Pradesh,Butter Chicken,Non-Veg,Half,99,50,149,Packed,3.9
+310,Thakur Chiefs,Himachal Pradesh,Palak Paneer,Veg,Half,132,0,132,Unpacked,5.1
+311,Thakur Chiefs,Himachal Pradesh,Veg Pulao,Veg,Half,317,0,317,Unpacked,3.4
+312,Thakur Chiefs,Himachal Pradesh,Chicken Korma,Non-Veg,Full,251,50,301,Packed,3.7
+313,Thakur Chiefs,Himachal Pradesh,Fish Curry,Non-Veg,Full,408,50,458,Packed,1.1
+314,Thakur Chiefs,Himachal Pradesh,Chicken Curry,Non-Veg,Full,458,0,458,Unpacked,2.1
+315,Thakur Chiefs,Himachal Pradesh,Veg Biryani,Veg,Half,165,0,165,Unpacked,0.4
+316,Thakur Chiefs,Himachal Pradesh,Mutton Biryani,Non-Veg,Half,97,50,147,Packed,4.5
+317,Thakur Chiefs,Himachal Pradesh,Aloo Gobi,Veg,Full,264,0,264,Unpacked,2.7
+318,Thakur Chiefs,Himachal Pradesh,Veg Biryani,Veg,Full,275,0,275,Unpacked,4.3
+319,Thakur Chiefs,Himachal Pradesh,Egg Curry,Non-Veg,Half,262,50,312,Packed,0.9
+320,Thakur Chiefs,Himachal Pradesh,Egg Curry,Non-Veg,Half,262,50,312,Packed,1.6
+321,Thakur Chiefs,Himachal Pradesh,Fish Curry,Non-Veg,Full,408,0,408,Unpacked,3.6
+322,Thakur Chiefs,Himachal Pradesh,Baingan Bharta,Veg,Full,194,50,244,Packed,4.5
+323,Thakur Chiefs,Himachal Pradesh,Chole Bhature,Veg,Full,529,0,529,Unpacked,0.7
+324,Thakur Chiefs,Himachal Pradesh,Fish Curry,Non-Veg,Full,408,0,408,Unpacked,0.3
+325,Thakur Chiefs,Himachal Pradesh,Matar Paneer,Veg,Half,257,50,307,Packed,1.2
+326,Thakur Chiefs,Himachal Pradesh,Aloo Gobi,Veg,Half,158,0,158,Unpacked,1.7
+327,Thakur Chiefs,Himachal Pradesh,Chole Bhature,Veg,Half,317,0,317,Unpacked,4.5
+328,Thakur Chiefs,Himachal Pradesh,Veg Biryani,Veg,Half,165,0,165,Unpacked,3.2
+329,Thakur Chiefs,Himachal Pradesh,Palak Paneer,Veg,Full,221,50,271,Packed,2.4
+330,Thakur Chiefs,Himachal Pradesh,Mutton Biryani,Non-Veg,Half,97,0,97,Unpacked,0.1
+331,Thakur Chiefs,Himachal Pradesh,Chicken Lollipop,Non-Veg,Half,257,0,257,Unpacked,3.5
+332,Thakur Chiefs,Himachal Pradesh,Mutton Rogan Josh,Non-Veg,Full,197,0,197,Unpacked,1.7
+333,Thakur Chiefs,Himachal Pradesh,Matar Paneer,Veg,Half,257,0,257,Unpacked,1.0
+334,Thakur Chiefs,Himachal Pradesh,Chicken Tikka Masala,Non-Veg,Full,261,0,261,Unpacked,0.5
+335,Thakur Chiefs,Himachal Pradesh,Chicken Handi,Non-Veg,Half,289,50,339,Packed,2.6
+336,Thakur Chiefs,Himachal Pradesh,Matar Paneer,Veg,Half,257,0,257,Unpacked,5.2
+337,Thakur Chiefs,Himachal Pradesh,Mutton Biryani,Non-Veg,Full,163,50,213,Packed,2.0
+338,Thakur Chiefs,Himachal Pradesh,Veg Biryani,Veg,Half,165,50,215,Packed,3.2
+339,Thakur Chiefs,Himachal Pradesh,Aloo Gobi,Veg,Full,264,0,264,Unpacked,4.4
+340,Thakur Chiefs,Himachal Pradesh,Prawn Masala,Non-Veg,Half,309,50,359,Packed,0.6
+341,Thakur Chiefs,Himachal Pradesh,Malai Kofta,Veg,Half,316,50,366,Packed,3.6
+342,Thakur Chiefs,Himachal Pradesh,Egg Curry,Non-Veg,Half,262,50,312,Packed,5.7
+343,Thakur Chiefs,Himachal Pradesh,Tandoori Chicken,Non-Veg,Full,269,0,269,Unpacked,4.5
+344,Thakur Chiefs,Himachal Pradesh,Egg Curry,Non-Veg,Full,437,0,437,Unpacked,5.2
+345,Thakur Chiefs,Himachal Pradesh,Tandoori Chicken,Non-Veg,Full,269,50,319,Packed,2.6
+346,Thakur Chiefs,Himachal Pradesh,Butter Naan,Veg,Full,366,0,366,Unpacked,4.8
+347,Thakur Chiefs,Himachal Pradesh,Mutton Rogan Josh,Non-Veg,Half,118,0,118,Unpacked,3.0
+348,Thakur Chiefs,Himachal Pradesh,Kadai Paneer,Veg,Full,202,0,202,Unpacked,0.2
+349,Thakur Chiefs,Himachal Pradesh,Veg Pulao,Veg,Full,529,50,579,Packed,3.9
+350,Thakur Chiefs,Himachal Pradesh,Chicken Handi,Non-Veg,Half,289,0,289,Unpacked,2.8
+351,Thakur Chiefs,Himachal Pradesh,Chicken Biryani,Non-Veg,Half,99,0,99,Unpacked,5.5
+352,Thakur Chiefs,Himachal Pradesh,Mutton Rogan Josh,Non-Veg,Half,118,0,118,Unpacked,3.6
+353,Thakur Chiefs,Himachal Pradesh,Butter Chicken,Non-Veg,Half,99,50,149,Packed,2.7
+354,Thakur Chiefs,Himachal Pradesh,Chicken Korma,Non-Veg,Full,251,50,301,Packed,3.0
+355,Thakur Chiefs,Himachal Pradesh,Veg Biryani,Veg,Half,165,50,215,Packed,4.2
+356,Thakur Chiefs,Himachal Pradesh,Tandoori Roti,Veg,Half,271,0,271,Unpacked,2.2
+357,Thakur Chiefs,Himachal Pradesh,Kadai Paneer,Veg,Full,202,0,202,Unpacked,4.6
+358,Thakur Chiefs,Himachal Pradesh,Fish Curry,Non-Veg,Half,244,0,244,Unpacked,0.4
+359,Thakur Chiefs,Himachal Pradesh,Chole Bhature,Veg,Full,529,0,529,Unpacked,1.5
+360,Thakur Chiefs,Himachal Pradesh,Chicken Handi,Non-Veg,Half,289,0,289,Unpacked,0.5
+361,Thakur Chiefs,Himachal Pradesh,Fish Curry,Non-Veg,Half,244,0,244,Unpacked,1.9
+362,Thakur Chiefs,Himachal Pradesh,Tandoori Chicken,Non-Veg,Full,269,50,319,Packed,3.6
+363,Thakur Chiefs,Himachal Pradesh,Shahi Paneer,Veg,Full,162,0,162,Unpacked,3.9
+364,Thakur Chiefs,Himachal Pradesh,Mix Veg Curry,Veg,Half,297,50,347,Packed,3.9
+365,Thakur Chiefs,Himachal Pradesh,Baingan Bharta,Veg,Full,194,50,244,Packed,2.2
+366,Thakur Chiefs,Himachal Pradesh,Veg Biryani,Veg,Half,165,0,165,Unpacked,5.7
+367,Thakur Chiefs,Himachal Pradesh,Butter Naan,Veg,Half,219,50,269,Packed,6.0
+368,Thakur Chiefs,Himachal Pradesh,Rajma Chawal,Veg,Half,174,0,174,Unpacked,5.1
+369,Thakur Chiefs,Himachal Pradesh,Chole Bhature,Veg,Half,317,0,317,Unpacked,5.3
+370,Thakur Chiefs,Himachal Pradesh,Chicken Tikka Masala,Non-Veg,Half,156,0,156,Unpacked,0.9
+371,Thakur Chiefs,Himachal Pradesh,Veg Biryani,Veg,Half,165,0,165,Unpacked,0.3
+372,Thakur Chiefs,Himachal Pradesh,Veg Pulao,Veg,Half,317,0,317,Unpacked,3.7
+373,Thakur Chiefs,Himachal Pradesh,Egg Curry,Non-Veg,Full,437,50,487,Packed,3.2
+374,Thakur Chiefs,Himachal Pradesh,Kadai Paneer,Veg,Full,202,50,252,Packed,2.2
+375,Thakur Chiefs,Himachal Pradesh,Mutton Rogan Josh,Non-Veg,Full,197,0,197,Unpacked,4.6
+376,Thakur Chiefs,Himachal Pradesh,Egg Curry,Non-Veg,Full,437,0,437,Unpacked,5.8
+377,Thakur Chiefs,Himachal Pradesh,Prawn Masala,Non-Veg,Half,309,50,359,Packed,5.2
+378,Thakur Chiefs,Himachal Pradesh,Dal Makhani,Veg,Full,207,0,207,Unpacked,3.3
+379,Thakur Chiefs,Himachal Pradesh,Chole Bhature,Veg,Half,317,0,317,Unpacked,0.5
+380,Thakur Chiefs,Himachal Pradesh,Veg Biryani,Veg,Full,275,0,275,Unpacked,5.4
+381,Thakur Chiefs,Himachal Pradesh,Rajma Chawal,Veg,Full,290,50,340,Packed,5.7
+382,Thakur Chiefs,Himachal Pradesh,Palak Paneer,Veg,Full,221,0,221,Unpacked,5.6
+383,Thakur Chiefs,Himachal Pradesh,Baingan Bharta,Veg,Half,116,0,116,Unpacked,3.0
+384,Thakur Chiefs,Himachal Pradesh,Palak Paneer,Veg,Full,221,50,271,Packed,2.2
+385,Thakur Chiefs,Himachal Pradesh,Paneer Butter Masala,Veg,Full,477,50,527,Packed,5.0
+386,Thakur Chiefs,Himachal Pradesh,Tandoori Chicken,Non-Veg,Full,269,50,319,Packed,0.8
+387,Thakur Chiefs,Himachal Pradesh,Kadai Paneer,Veg,Full,202,50,252,Packed,4.6
+388,Thakur Chiefs,Himachal Pradesh,Butter Naan,Veg,Full,366,50,416,Packed,5.4
+389,Thakur Chiefs,Himachal Pradesh,Paneer Butter Masala,Veg,Full,477,50,527,Packed,5.0
+390,Thakur Chiefs,Himachal Pradesh,Chicken Biryani,Non-Veg,Full,165,50,215,Packed,4.7
+391,Thakur Chiefs,Himachal Pradesh,Palak Paneer,Veg,Full,221,50,271,Packed,0.3
+392,Thakur Chiefs,Himachal Pradesh,Baingan Bharta,Veg,Full,194,50,244,Packed,0.7
+393,Thakur Chiefs,Himachal Pradesh,Mutton Curry,Non-Veg,Full,509,50,559,Packed,3.8
+394,Thakur Chiefs,Himachal Pradesh,Mutton Rogan Josh,Non-Veg,Half,118,50,168,Packed,1.7
+395,Thakur Chiefs,Himachal Pradesh,Paneer Butter Masala,Veg,Full,477,50,527,Packed,3.4
+396,Thakur Chiefs,Himachal Pradesh,Veg Biryani,Veg,Half,165,0,165,Unpacked,0.4
+397,Thakur Chiefs,Himachal Pradesh,Butter Chicken,Non-Veg,Half,99,0,99,Unpacked,5.2
+398,Thakur Chiefs,Himachal Pradesh,Dal Makhani,Veg,Full,207,0,207,Unpacked,1.5
+399,Thakur Chiefs,Himachal Pradesh,Paneer Butter Masala,Veg,Full,477,50,527,Packed,2.1
+400,Thakur Chiefs,Himachal Pradesh,Mutton Biryani,Non-Veg,Half,97,0,97,Unpacked,0.8
+401,Thakur Chiefs,Himachal Pradesh,Veg Pulao,Veg,Full,529,50,579,Packed,5.0
+402,Thakur Chiefs,Himachal Pradesh,Fish Curry,Non-Veg,Full,408,0,408,Unpacked,3.8
+403,Thakur Chiefs,Himachal Pradesh,Chicken Korma,Non-Veg,Half,150,50,200,Packed,4.3
+404,Thakur Chiefs,Himachal Pradesh,Tandoori Roti,Veg,Half,271,0,271,Unpacked,1.2
+405,Thakur Chiefs,Himachal Pradesh,Chicken Korma,Non-Veg,Half,150,50,200,Packed,1.9
+406,Thakur Chiefs,Himachal Pradesh,Kadai Paneer,Veg,Full,202,0,202,Unpacked,1.5
+407,Thakur Chiefs,Himachal Pradesh,Egg Curry,Non-Veg,Half,262,0,262,Unpacked,2.1
+408,Thakur Chiefs,Himachal Pradesh,Egg Curry,Non-Veg,Half,262,0,262,Unpacked,1.6
+409,Thakur Chiefs,Himachal Pradesh,Chicken Korma,Non-Veg,Full,251,0,251,Unpacked,5.3
+410,Thakur Chiefs,Himachal Pradesh,Mutton Biryani,Non-Veg,Full,163,0,163,Unpacked,2.0
+411,Thakur Chiefs,Himachal Pradesh,Veg Biryani,Veg,Full,275,0,275,Unpacked,2.2
+412,Thakur Chiefs,Himachal Pradesh,Chicken Korma,Non-Veg,Full,251,50,301,Packed,4.4
+413,Thakur Chiefs,Himachal Pradesh,Shahi Paneer,Veg,Full,162,50,212,Packed,3.3
+414,Thakur Chiefs,Himachal Pradesh,Mix Veg Curry,Veg,Half,297,50,347,Packed,2.0
+415,Thakur Chiefs,Himachal Pradesh,Kadai Paneer,Veg,Full,202,0,202,Unpacked,3.6
+416,Thakur Chiefs,Himachal Pradesh,Baingan Bharta,Veg,Half,116,0,116,Unpacked,2.1
+417,Thakur Chiefs,Himachal Pradesh,Dal Makhani,Veg,Full,207,0,207,Unpacked,1.6
+418,Thakur Chiefs,Himachal Pradesh,Chicken Korma,Non-Veg,Half,150,50,200,Packed,4.0
+419,Thakur Chiefs,Himachal Pradesh,Matar Paneer,Veg,Full,429,50,479,Packed,5.7
+420,Thakur Chiefs,Himachal Pradesh,Rajma Chawal,Veg,Full,290,50,340,Packed,0.8
+421,Thakur Chiefs,Himachal Pradesh,Palak Paneer,Veg,Full,221,0,221,Unpacked,2.3
+422,Thakur Chiefs,Himachal Pradesh,Mutton Rogan Josh,Non-Veg,Half,118,50,168,Packed,4.1
+423,Thakur Chiefs,Himachal Pradesh,Veg Pulao,Veg,Full,529,0,529,Unpacked,4.6
+424,Thakur Chiefs,Himachal Pradesh,Mutton Rogan Josh,Non-Veg,Half,118,0,118,Unpacked,2.4
+425,Thakur Chiefs,Himachal Pradesh,Tandoori Chicken,Non-Veg,Full,269,50,319,Packed,5.8
+426,Thakur Chiefs,Himachal Pradesh,Paneer Butter Masala,Veg,Half,286,0,286,Unpacked,3.1
+427,Thakur Chiefs,Himachal Pradesh,Chicken Lollipop,Non-Veg,Half,257,0,257,Unpacked,4.6
+428,Thakur Chiefs,Himachal Pradesh,Chicken Curry,Non-Veg,Full,458,50,508,Packed,6.0
+429,Thakur Chiefs,Himachal Pradesh,Kadai Paneer,Veg,Full,202,50,252,Packed,0.7
+430,Thakur Chiefs,Himachal Pradesh,Chicken Handi,Non-Veg,Half,289,0,289,Unpacked,1.0
+431,Thakur Chiefs,Himachal Pradesh,Chicken Curry,Non-Veg,Full,458,50,508,Packed,4.9
+432,Thakur Chiefs,Himachal Pradesh,Chicken Handi,Non-Veg,Full,482,0,482,Unpacked,4.3
+433,Thakur Chiefs,Himachal Pradesh,Chicken Biryani,Non-Veg,Full,165,0,165,Unpacked,5.1
+434,Thakur Chiefs,Himachal Pradesh,Chicken Curry,Non-Veg,Half,274,0,274,Unpacked,3.1
+435,Thakur Chiefs,Himachal Pradesh,Chole Bhature,Veg,Half,317,50,367,Packed,1.4
+436,Thakur Chiefs,Himachal Pradesh,Butter Naan,Veg,Half,219,0,219,Unpacked,3.3
+437,Thakur Chiefs,Himachal Pradesh,Veg Pulao,Veg,Full,529,50,579,Packed,3.7
+438,Thakur Chiefs,Himachal Pradesh,Shahi Paneer,Veg,Half,97,0,97,Unpacked,2.4
+439,Thakur Chiefs,Himachal Pradesh,Chicken Curry,Non-Veg,Full,458,0,458,Unpacked,4.6
+440,Thakur Chiefs,Himachal Pradesh,Prawn Masala,Non-Veg,Half,309,50,359,Packed,5.8
+441,Thakur Chiefs,Himachal Pradesh,Tandoori Chicken,Non-Veg,Half,161,0,161,Unpacked,2.8
+442,Thakur Chiefs,Himachal Pradesh,Butter Chicken,Non-Veg,Full,166,50,216,Packed,5.3
+443,Thakur Chiefs,Himachal Pradesh,Egg Curry,Non-Veg,Half,262,50,312,Packed,2.6
+444,Thakur Chiefs,Himachal Pradesh,Chicken Lollipop,Non-Veg,Half,257,50,307,Packed,3.1
+445,Thakur Chiefs,Himachal Pradesh,Kadai Paneer,Veg,Half,121,50,171,Packed,1.9
+446,Thakur Chiefs,Himachal Pradesh,Chicken Curry,Non-Veg,Half,274,0,274,Unpacked,5.7
+447,Thakur Chiefs,Himachal Pradesh,Butter Chicken,Non-Veg,Full,166,50,216,Packed,1.5
+448,Thakur Chiefs,Himachal Pradesh,Tandoori Chicken,Non-Veg,Full,269,50,319,Packed,3.8
+449,Thakur Chiefs,Himachal Pradesh,Chicken Tikka Masala,Non-Veg,Half,156,50,206,Packed,3.6
+450,Thakur Chiefs,Himachal Pradesh,Mutton Rogan Josh,Non-Veg,Half,118,50,168,Packed,4.0
+451,Thakur Chiefs,Himachal Pradesh,Mutton Biryani,Non-Veg,Full,163,50,213,Packed,5.0
+452,Thakur Chiefs,Himachal Pradesh,Paneer Butter Masala,Veg,Half,286,50,336,Packed,5.7
+453,Thakur Chiefs,Himachal Pradesh,Egg Curry,Non-Veg,Full,437,50,487,Packed,4.6
+454,Thakur Chiefs,Himachal Pradesh,Baingan Bharta,Veg,Half,116,0,116,Unpacked,5.3
+455,Thakur Chiefs,Himachal Pradesh,Chicken Biryani,Non-Veg,Full,165,0,165,Unpacked,2.9
+456,Thakur Chiefs,Himachal Pradesh,Chicken Korma,Non-Veg,Full,251,0,251,Unpacked,2.7
+457,Thakur Chiefs,Himachal Pradesh,Chicken Curry,Non-Veg,Half,274,50,324,Packed,2.6
+458,Thakur Chiefs,Himachal Pradesh,Butter Naan,Veg,Full,366,50,416,Packed,2.0
+459,Thakur Chiefs,Himachal Pradesh,Rajma Chawal,Veg,Full,290,0,290,Unpacked,4.4
+460,Thakur Chiefs,Himachal Pradesh,Chicken Handi,Non-Veg,Full,482,0,482,Unpacked,0.8
+461,Thakur Chiefs,Himachal Pradesh,Veg Pulao,Veg,Half,317,0,317,Unpacked,1.5
+462,Thakur Chiefs,Himachal Pradesh,Chole Bhature,Veg,Full,529,0,529,Unpacked,1.5
+463,Thakur Chiefs,Himachal Pradesh,Chole Bhature,Veg,Half,317,0,317,Unpacked,5.7
+464,Thakur Chiefs,Himachal Pradesh,Chicken Handi,Non-Veg,Full,482,50,532,Packed,5.8
+465,Thakur Chiefs,Himachal Pradesh,Mutton Curry,Non-Veg,Half,305,0,305,Unpacked,5.6
+466,Thakur Chiefs,Himachal Pradesh,Mutton Biryani,Non-Veg,Full,163,50,213,Packed,4.6
+467,Thakur Chiefs,Himachal Pradesh,Butter Naan,Veg,Full,366,0,366,Unpacked,5.3
+468,Thakur Chiefs,Himachal Pradesh,Butter Naan,Veg,Half,219,50,269,Packed,5.7
+469,Thakur Chiefs,Himachal Pradesh,Butter Chicken,Non-Veg,Full,166,50,216,Packed,1.3
+470,Thakur Chiefs,Himachal Pradesh,Veg Pulao,Veg,Half,317,50,367,Packed,1.7
+471,Thakur Chiefs,Himachal Pradesh,Chicken Tikka Masala,Non-Veg,Full,261,0,261,Unpacked,3.2
+472,Thakur Chiefs,Himachal Pradesh,Chicken Handi,Non-Veg,Half,289,0,289,Unpacked,0.8
+473,Thakur Chiefs,Himachal Pradesh,Malai Kofta,Veg,Full,527,0,527,Unpacked,2.2
+474,Thakur Chiefs,Himachal Pradesh,Matar Paneer,Veg,Half,257,50,307,Packed,2.2
+475,Thakur Chiefs,Himachal Pradesh,Kadai Paneer,Veg,Half,121,0,121,Unpacked,3.0
+476,Thakur Chiefs,Himachal Pradesh,Egg Curry,Non-Veg,Full,437,50,487,Packed,0.8
+477,Thakur Chiefs,Himachal Pradesh,Chole Bhature,Veg,Full,529,0,529,Unpacked,4.8
+478,Thakur Chiefs,Himachal Pradesh,Mix Veg Curry,Veg,Full,496,50,546,Packed,1.2
+479,Thakur Chiefs,Himachal Pradesh,Butter Chicken,Non-Veg,Full,166,50,216,Packed,0.3
+480,Thakur Chiefs,Himachal Pradesh,Rajma Chawal,Veg,Full,290,0,290,Unpacked,3.1
+481,Thakur Chiefs,Himachal Pradesh,Rajma Chawal,Veg,Half,174,0,174,Unpacked,5.6
+482,Thakur Chiefs,Himachal Pradesh,Mix Veg Curry,Veg,Half,297,0,297,Unpacked,5.9
+483,Thakur Chiefs,Himachal Pradesh,Mutton Biryani,Non-Veg,Full,163,0,163,Unpacked,3.0
+484,Thakur Chiefs,Himachal Pradesh,Butter Chicken,Non-Veg,Full,166,0,166,Unpacked,2.8
+485,Thakur Chiefs,Himachal Pradesh,Paneer Butter Masala,Veg,Full,477,0,477,Unpacked,4.0
+486,Thakur Chiefs,Himachal Pradesh,Baingan Bharta,Veg,Full,194,50,244,Packed,3.6
+487,Thakur Chiefs,Himachal Pradesh,Malai Kofta,Veg,Half,316,50,366,Packed,3.5
+488,Thakur Chiefs,Himachal Pradesh,Veg Biryani,Veg,Full,275,50,325,Packed,4.9
+489,Thakur Chiefs,Himachal Pradesh,Palak Paneer,Veg,Half,132,50,182,Packed,1.1
+490,Thakur Chiefs,Himachal Pradesh,Tandoori Roti,Veg,Full,452,0,452,Unpacked,0.9
+491,Thakur Chiefs,Himachal Pradesh,Chicken Curry,Non-Veg,Half,274,0,274,Unpacked,3.0
+492,Thakur Chiefs,Himachal Pradesh,Chicken Tikka Masala,Non-Veg,Full,261,50,311,Packed,4.2
+493,Thakur Chiefs,Himachal Pradesh,Butter Chicken,Non-Veg,Half,99,0,99,Unpacked,6.0
+494,Thakur Chiefs,Himachal Pradesh,Butter Naan,Veg,Full,366,0,366,Unpacked,5.7
+495,Thakur Chiefs,Himachal Pradesh,Tandoori Roti,Veg,Full,452,0,452,Unpacked,4.1
+496,Thakur Chiefs,Himachal Pradesh,Chicken Handi,Non-Veg,Full,482,0,482,Unpacked,1.2
+497,Thakur Chiefs,Himachal Pradesh,Palak Paneer,Veg,Full,221,0,221,Unpacked,1.3
+498,Thakur Chiefs,Himachal Pradesh,Kadai Paneer,Veg,Full,202,50,252,Packed,4.1
+499,Thakur Chiefs,Himachal Pradesh,Butter Naan,Veg,Full,366,0,366,Unpacked,2.1
+500,Thakur Chiefs,Himachal Pradesh,Chicken Lollipop,Non-Veg,Full,429,0,429,Unpacked,0.7
+501,Thakur Chiefs,Himachal Pradesh,Fish Curry,Non-Veg,Full,408,0,408,Unpacked,4.9
+502,Thakur Chiefs,Himachal Pradesh,Egg Curry,Non-Veg,Half,262,0,262,Unpacked,0.3
+503,Thakur Chiefs,Himachal Pradesh,Chicken Curry,Non-Veg,Half,274,0,274,Unpacked,5.5
+504,Thakur Chiefs,Himachal Pradesh,Tandoori Chicken,Non-Veg,Full,269,0,269,Unpacked,1.3
+505,Thakur Chiefs,Himachal Pradesh,Prawn Masala,Non-Veg,Full,516,0,516,Unpacked,0.8
+506,Thakur Chiefs,Himachal Pradesh,Chicken Tikka Masala,Non-Veg,Half,156,50,206,Packed,0.3
+507,Thakur Chiefs,Himachal Pradesh,Mutton Curry,Non-Veg,Half,305,50,355,Packed,0.3
+508,Thakur Chiefs,Himachal Pradesh,Baingan Bharta,Veg,Full,194,0,194,Unpacked,0.6
+509,Thakur Chiefs,Himachal Pradesh,Egg Curry,Non-Veg,Half,262,50,312,Packed,5.8
+510,Thakur Chiefs,Himachal Pradesh,Chicken Lollipop,Non-Veg,Half,257,0,257,Unpacked,3.9
+511,Thakur Chiefs,Himachal Pradesh,Mutton Curry,Non-Veg,Full,509,0,509,Unpacked,3.9
+512,Thakur Chiefs,Himachal Pradesh,Egg Curry,Non-Veg,Full,437,0,437,Unpacked,1.7
+513,Thakur Chiefs,Himachal Pradesh,Dal Makhani,Veg,Half,124,50,174,Packed,3.2
+514,Thakur Chiefs,Himachal Pradesh,Mutton Biryani,Non-Veg,Half,97,50,147,Packed,2.5
+515,Thakur Chiefs,Himachal Pradesh,Prawn Masala,Non-Veg,Half,309,50,359,Packed,6.0
+516,Thakur Chiefs,Himachal Pradesh,Matar Paneer,Veg,Full,429,50,479,Packed,5.6
+517,Thakur Chiefs,Himachal Pradesh,Chicken Handi,Non-Veg,Full,482,50,532,Packed,0.1
+518,Thakur Chiefs,Himachal Pradesh,Mutton Rogan Josh,Non-Veg,Half,118,0,118,Unpacked,1.7
+519,Thakur Chiefs,Himachal Pradesh,Tandoori Chicken,Non-Veg,Full,269,50,319,Packed,5.1
+520,Thakur Chiefs,Himachal Pradesh,Tandoori Roti,Veg,Full,452,50,502,Packed,4.9
+521,Thakur Chiefs,Himachal Pradesh,Mix Veg Curry,Veg,Half,297,0,297,Unpacked,3.9
+522,Thakur Chiefs,Himachal Pradesh,Chicken Curry,Non-Veg,Half,274,50,324,Packed,4.4
+523,Thakur Chiefs,Himachal Pradesh,Chicken Korma,Non-Veg,Full,251,50,301,Packed,1.1
+524,Thakur Chiefs,Himachal Pradesh,Chicken Handi,Non-Veg,Full,482,0,482,Unpacked,3.1
+525,Thakur Chiefs,Himachal Pradesh,Shahi Paneer,Veg,Full,162,50,212,Packed,1.1
+526,Thakur Chiefs,Himachal Pradesh,Rajma Chawal,Veg,Full,290,0,290,Unpacked,5.6
+527,Thakur Chiefs,Himachal Pradesh,Paneer Butter Masala,Veg,Full,477,0,477,Unpacked,1.4
+528,Thakur Chiefs,Himachal Pradesh,Egg Curry,Non-Veg,Full,437,0,437,Unpacked,1.8
+529,Thakur Chiefs,Himachal Pradesh,Mutton Biryani,Non-Veg,Half,97,0,97,Unpacked,3.9
+530,Thakur Chiefs,Himachal Pradesh,Chicken Curry,Non-Veg,Half,274,50,324,Packed,4.0
+531,Thakur Chiefs,Himachal Pradesh,Tandoori Roti,Veg,Full,452,50,502,Packed,2.4
+532,Thakur Chiefs,Himachal Pradesh,Butter Chicken,Non-Veg,Full,166,50,216,Packed,3.8
+533,Thakur Chiefs,Himachal Pradesh,Kadai Paneer,Veg,Full,202,50,252,Packed,1.3
+534,Thakur Chiefs,Himachal Pradesh,Rajma Chawal,Veg,Full,290,50,340,Packed,2.7
+535,Thakur Chiefs,Himachal Pradesh,Chicken Tikka Masala,Non-Veg,Full,261,0,261,Unpacked,4.2
+536,Thakur Chiefs,Himachal Pradesh,Chicken Lollipop,Non-Veg,Full,429,50,479,Packed,4.6
+537,Thakur Chiefs,Himachal Pradesh,Fish Curry,Non-Veg,Half,244,0,244,Unpacked,3.2
+538,Thakur Chiefs,Himachal Pradesh,Veg Pulao,Veg,Half,317,50,367,Packed,0.4
+539,Thakur Chiefs,Himachal Pradesh,Chicken Biryani,Non-Veg,Half,99,50,149,Packed,1.0
+540,Thakur Chiefs,Himachal Pradesh,Chicken Handi,Non-Veg,Full,482,50,532,Packed,4.1
+541,Thakur Chiefs,Himachal Pradesh,Chicken Curry,Non-Veg,Full,458,50,508,Packed,5.4
+542,Thakur Chiefs,Himachal Pradesh,Tandoori Roti,Veg,Half,271,0,271,Unpacked,0.8
+543,Thakur Chiefs,Himachal Pradesh,Baingan Bharta,Veg,Full,194,50,244,Packed,3.4
+544,Thakur Chiefs,Himachal Pradesh,Fish Curry,Non-Veg,Full,408,50,458,Packed,2.4
+545,Thakur Chiefs,Himachal Pradesh,Prawn Masala,Non-Veg,Half,309,50,359,Packed,3.5
+546,Thakur Chiefs,Himachal Pradesh,Dal Makhani,Veg,Full,207,0,207,Unpacked,4.2
+547,Thakur Chiefs,Himachal Pradesh,Chicken Biryani,Non-Veg,Half,99,50,149,Packed,5.9
+548,Thakur Chiefs,Himachal Pradesh,Butter Naan,Veg,Half,219,0,219,Unpacked,2.5
+549,Thakur Chiefs,Himachal Pradesh,Egg Curry,Non-Veg,Half,262,0,262,Unpacked,2.2
+550,Thakur Chiefs,Himachal Pradesh,Mutton Curry,Non-Veg,Full,509,0,509,Unpacked,5.2
+551,Thakur Chiefs,Himachal Pradesh,Chicken Lollipop,Non-Veg,Full,429,0,429,Unpacked,0.5
+552,Thakur Chiefs,Himachal Pradesh,Fish Curry,Non-Veg,Half,244,0,244,Unpacked,0.7
+553,Thakur Chiefs,Himachal Pradesh,Chicken Biryani,Non-Veg,Full,165,50,215,Packed,4.4
+554,Thakur Chiefs,Himachal Pradesh,Palak Paneer,Veg,Half,132,50,182,Packed,5.9
+555,Thakur Chiefs,Himachal Pradesh,Tandoori Roti,Veg,Full,452,0,452,Unpacked,4.9
+556,Thakur Chiefs,Himachal Pradesh,Palak Paneer,Veg,Full,221,0,221,Unpacked,0.9
+557,Thakur Chiefs,Himachal Pradesh,Aloo Gobi,Veg,Half,158,50,208,Packed,4.9
+558,Thakur Chiefs,Himachal Pradesh,Baingan Bharta,Veg,Half,116,50,166,Packed,1.2
+559,Thakur Chiefs,Himachal Pradesh,Chole Bhature,Veg,Half,317,0,317,Unpacked,3.6
+560,Thakur Chiefs,Himachal Pradesh,Chicken Curry,Non-Veg,Half,274,50,324,Packed,4.4
+561,Thakur Chiefs,Himachal Pradesh,Matar Paneer,Veg,Full,429,50,479,Packed,3.2
+562,Thakur Chiefs,Himachal Pradesh,Egg Curry,Non-Veg,Half,262,50,312,Packed,3.0
+563,Thakur Chiefs,Himachal Pradesh,Kadai Paneer,Veg,Half,121,0,121,Unpacked,3.5
+564,Thakur Chiefs,Himachal Pradesh,Egg Curry,Non-Veg,Full,437,50,487,Packed,1.8
+565,Thakur Chiefs,Himachal Pradesh,Rajma Chawal,Veg,Half,174,0,174,Unpacked,1.8
+566,Thakur Chiefs,Himachal Pradesh,Dal Makhani,Veg,Half,124,0,124,Unpacked,3.3
+567,Thakur Chiefs,Himachal Pradesh,Dal Makhani,Veg,Full,207,0,207,Unpacked,4.7
+568,Thakur Chiefs,Himachal Pradesh,Mix Veg Curry,Veg,Full,496,0,496,Unpacked,0.9
+569,Thakur Chiefs,Himachal Pradesh,Matar Paneer,Veg,Half,257,0,257,Unpacked,1.4
+570,Thakur Chiefs,Himachal Pradesh,Palak Paneer,Veg,Full,221,50,271,Packed,4.8
+571,Thakur Chiefs,Himachal Pradesh,Chicken Lollipop,Non-Veg,Half,257,0,257,Unpacked,5.8
+572,Thakur Chiefs,Himachal Pradesh,Chicken Biryani,Non-Veg,Half,99,0,99,Unpacked,1.5
+573,Thakur Chiefs,Himachal Pradesh,Aloo Gobi,Veg,Full,264,50,314,Packed,5.5
+574,Thakur Chiefs,Himachal Pradesh,Chicken Handi,Non-Veg,Full,482,50,532,Packed,3.2
+575,Thakur Chiefs,Himachal Pradesh,Prawn Masala,Non-Veg,Half,309,50,359,Packed,1.6
+576,Thakur Chiefs,Himachal Pradesh,Fish Curry,Non-Veg,Half,244,50,294,Packed,1.1
+577,Thakur Chiefs,Himachal Pradesh,Egg Curry,Non-Veg,Half,262,0,262,Unpacked,1.3
+578,Thakur Chiefs,Himachal Pradesh,Chicken Lollipop,Non-Veg,Full,429,0,429,Unpacked,5.7
+579,Thakur Chiefs,Himachal Pradesh,Paneer Butter Masala,Veg,Half,286,50,336,Packed,5.8
+580,Thakur Chiefs,Himachal Pradesh,Chole Bhature,Veg,Full,529,50,579,Packed,4.2

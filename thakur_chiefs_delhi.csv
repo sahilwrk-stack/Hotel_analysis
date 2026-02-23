@@ -1,0 +1,581 @@
+Order_ID,Hotel_Name,City,Dish_Name,Category,Variant,Base_Price,Packing_Charge,Total_Price,Packed_Status,Food_Rating
+1,Thakur Chiefs,Delhi,Chicken Curry,Non-Veg,Half,274,0,274,Unpacked,5.5
+2,Thakur Chiefs,Delhi,Chicken Biryani,Non-Veg,Full,165,0,165,Unpacked,2.3
+3,Thakur Chiefs,Delhi,Chicken Biryani,Non-Veg,Full,165,0,165,Unpacked,1.6
+4,Thakur Chiefs,Delhi,Butter Chicken,Non-Veg,Full,166,0,166,Unpacked,0.6
+5,Thakur Chiefs,Delhi,Mutton Biryani,Non-Veg,Full,163,0,163,Unpacked,5.5
+6,Thakur Chiefs,Delhi,Veg Pulao,Veg,Full,529,0,529,Unpacked,0.3
+7,Thakur Chiefs,Delhi,Chicken Handi,Non-Veg,Half,289,50,339,Packed,0.1
+8,Thakur Chiefs,Delhi,Chicken Biryani,Non-Veg,Full,165,0,165,Unpacked,0.9
+9,Thakur Chiefs,Delhi,Mix Veg Curry,Veg,Half,297,0,297,Unpacked,3.4
+10,Thakur Chiefs,Delhi,Palak Paneer,Veg,Full,221,0,221,Unpacked,1.5
+11,Thakur Chiefs,Delhi,Prawn Masala,Non-Veg,Full,516,0,516,Unpacked,2.8
+12,Thakur Chiefs,Delhi,Mutton Biryani,Non-Veg,Full,163,50,213,Packed,0.8
+13,Thakur Chiefs,Delhi,Chicken Biryani,Non-Veg,Full,165,50,215,Packed,5.5
+14,Thakur Chiefs,Delhi,Chicken Biryani,Non-Veg,Half,99,50,149,Packed,5.0
+15,Thakur Chiefs,Delhi,Shahi Paneer,Veg,Half,97,50,147,Packed,2.5
+16,Thakur Chiefs,Delhi,Prawn Masala,Non-Veg,Half,309,50,359,Packed,4.2
+17,Thakur Chiefs,Delhi,Paneer Butter Masala,Veg,Half,286,0,286,Unpacked,2.2
+18,Thakur Chiefs,Delhi,Chicken Tikka Masala,Non-Veg,Full,261,0,261,Unpacked,0.1
+19,Thakur Chiefs,Delhi,Chicken Biryani,Non-Veg,Full,165,50,215,Packed,0.1
+20,Thakur Chiefs,Delhi,Mutton Biryani,Non-Veg,Full,163,0,163,Unpacked,0.1
+21,Thakur Chiefs,Delhi,Prawn Masala,Non-Veg,Full,516,50,566,Packed,0.6
+22,Thakur Chiefs,Delhi,Chole Bhature,Veg,Half,317,50,367,Packed,1.2
+23,Thakur Chiefs,Delhi,Butter Chicken,Non-Veg,Full,166,0,166,Unpacked,1.6
+24,Thakur Chiefs,Delhi,Matar Paneer,Veg,Half,257,0,257,Unpacked,5.8
+25,Thakur Chiefs,Delhi,Tandoori Roti,Veg,Half,271,50,321,Packed,1.8
+26,Thakur Chiefs,Delhi,Prawn Masala,Non-Veg,Half,309,50,359,Packed,0.6
+27,Thakur Chiefs,Delhi,Matar Paneer,Veg,Full,429,0,429,Unpacked,0.3
+28,Thakur Chiefs,Delhi,Paneer Butter Masala,Veg,Half,286,50,336,Packed,3.0
+29,Thakur Chiefs,Delhi,Baingan Bharta,Veg,Full,194,50,244,Packed,5.4
+30,Thakur Chiefs,Delhi,Chicken Lollipop,Non-Veg,Half,257,50,307,Packed,1.3
+31,Thakur Chiefs,Delhi,Chicken Handi,Non-Veg,Full,482,0,482,Unpacked,0.3
+32,Thakur Chiefs,Delhi,Shahi Paneer,Veg,Full,162,50,212,Packed,1.1
+33,Thakur Chiefs,Delhi,Chicken Handi,Non-Veg,Full,482,50,532,Packed,5.8
+34,Thakur Chiefs,Delhi,Mutton Rogan Josh,Non-Veg,Half,118,0,118,Unpacked,5.6
+35,Thakur Chiefs,Delhi,Kadai Paneer,Veg,Half,121,50,171,Packed,3.4
+36,Thakur Chiefs,Delhi,Chicken Handi,Non-Veg,Full,482,0,482,Unpacked,2.3
+37,Thakur Chiefs,Delhi,Mutton Biryani,Non-Veg,Half,97,50,147,Packed,3.0
+38,Thakur Chiefs,Delhi,Veg Pulao,Veg,Half,317,50,367,Packed,2.6
+39,Thakur Chiefs,Delhi,Prawn Masala,Non-Veg,Half,309,0,309,Unpacked,3.6
+40,Thakur Chiefs,Delhi,Chicken Tikka Masala,Non-Veg,Full,261,0,261,Unpacked,0.2
+41,Thakur Chiefs,Delhi,Malai Kofta,Veg,Full,527,0,527,Unpacked,1.4
+42,Thakur Chiefs,Delhi,Chicken Biryani,Non-Veg,Full,165,0,165,Unpacked,1.1
+43,Thakur Chiefs,Delhi,Mutton Rogan Josh,Non-Veg,Full,197,50,247,Packed,4.6
+44,Thakur Chiefs,Delhi,Kadai Paneer,Veg,Half,121,50,171,Packed,0.5
+45,Thakur Chiefs,Delhi,Rajma Chawal,Veg,Full,290,50,340,Packed,4.4
+46,Thakur Chiefs,Delhi,Mix Veg Curry,Veg,Full,496,50,546,Packed,0.5
+47,Thakur Chiefs,Delhi,Kadai Paneer,Veg,Full,202,0,202,Unpacked,4.6
+48,Thakur Chiefs,Delhi,Chole Bhature,Veg,Half,317,50,367,Packed,1.1
+49,Thakur Chiefs,Delhi,Tandoori Roti,Veg,Full,452,50,502,Packed,0.2
+50,Thakur Chiefs,Delhi,Veg Pulao,Veg,Half,317,0,317,Unpacked,5.2
+51,Thakur Chiefs,Delhi,Paneer Butter Masala,Veg,Full,477,0,477,Unpacked,2.3
+52,Thakur Chiefs,Delhi,Shahi Paneer,Veg,Half,97,50,147,Packed,4.1
+53,Thakur Chiefs,Delhi,Veg Biryani,Veg,Half,165,0,165,Unpacked,1.8
+54,Thakur Chiefs,Delhi,Butter Naan,Veg,Half,219,50,269,Packed,1.0
+55,Thakur Chiefs,Delhi,Malai Kofta,Veg,Full,527,0,527,Unpacked,2.9
+56,Thakur Chiefs,Delhi,Shahi Paneer,Veg,Full,162,0,162,Unpacked,5.7
+57,Thakur Chiefs,Delhi,Mutton Biryani,Non-Veg,Full,163,50,213,Packed,2.7
+58,Thakur Chiefs,Delhi,Rajma Chawal,Veg,Full,290,50,340,Packed,5.7
+59,Thakur Chiefs,Delhi,Mix Veg Curry,Veg,Full,496,0,496,Unpacked,2.6
+60,Thakur Chiefs,Delhi,Baingan Bharta,Veg,Half,116,0,116,Unpacked,1.9
+61,Thakur Chiefs,Delhi,Chicken Curry,Non-Veg,Half,274,0,274,Unpacked,1.9
+62,Thakur Chiefs,Delhi,Matar Paneer,Veg,Full,429,0,429,Unpacked,4.4
+63,Thakur Chiefs,Delhi,Tandoori Chicken,Non-Veg,Full,269,50,319,Packed,2.0
+64,Thakur Chiefs,Delhi,Malai Kofta,Veg,Full,527,0,527,Unpacked,0.7
+65,Thakur Chiefs,Delhi,Mutton Rogan Josh,Non-Veg,Half,118,50,168,Packed,4.1
+66,Thakur Chiefs,Delhi,Chicken Biryani,Non-Veg,Half,99,0,99,Unpacked,5.7
+67,Thakur Chiefs,Delhi,Aloo Gobi,Veg,Full,264,0,264,Unpacked,5.0
+68,Thakur Chiefs,Delhi,Shahi Paneer,Veg,Full,162,0,162,Unpacked,0.8
+69,Thakur Chiefs,Delhi,Kadai Paneer,Veg,Half,121,0,121,Unpacked,4.0
+70,Thakur Chiefs,Delhi,Chicken Curry,Non-Veg,Full,458,0,458,Unpacked,0.4
+71,Thakur Chiefs,Delhi,Chicken Tikka Masala,Non-Veg,Full,261,0,261,Unpacked,3.2
+72,Thakur Chiefs,Delhi,Chicken Lollipop,Non-Veg,Full,429,50,479,Packed,4.7
+73,Thakur Chiefs,Delhi,Veg Pulao,Veg,Half,317,50,367,Packed,4.6
+74,Thakur Chiefs,Delhi,Fish Curry,Non-Veg,Full,408,50,458,Packed,3.9
+75,Thakur Chiefs,Delhi,Dal Makhani,Veg,Full,207,0,207,Unpacked,5.8
+76,Thakur Chiefs,Delhi,Baingan Bharta,Veg,Half,116,50,166,Packed,0.6
+77,Thakur Chiefs,Delhi,Palak Paneer,Veg,Half,132,0,132,Unpacked,2.2
+78,Thakur Chiefs,Delhi,Tandoori Roti,Veg,Half,271,0,271,Unpacked,6.0
+79,Thakur Chiefs,Delhi,Butter Naan,Veg,Half,219,0,219,Unpacked,2.5
+80,Thakur Chiefs,Delhi,Shahi Paneer,Veg,Half,97,50,147,Packed,2.1
+81,Thakur Chiefs,Delhi,Mix Veg Curry,Veg,Full,496,50,546,Packed,3.1
+82,Thakur Chiefs,Delhi,Veg Pulao,Veg,Full,529,50,579,Packed,2.6
+83,Thakur Chiefs,Delhi,Chicken Curry,Non-Veg,Full,458,0,458,Unpacked,0.4
+84,Thakur Chiefs,Delhi,Dal Makhani,Veg,Half,124,50,174,Packed,5.1
+85,Thakur Chiefs,Delhi,Tandoori Chicken,Non-Veg,Half,161,50,211,Packed,5.6
+86,Thakur Chiefs,Delhi,Mutton Biryani,Non-Veg,Half,97,50,147,Packed,3.3
+87,Thakur Chiefs,Delhi,Mix Veg Curry,Veg,Full,496,0,496,Unpacked,1.4
+88,Thakur Chiefs,Delhi,Matar Paneer,Veg,Half,257,50,307,Packed,3.8
+89,Thakur Chiefs,Delhi,Baingan Bharta,Veg,Full,194,50,244,Packed,4.4
+90,Thakur Chiefs,Delhi,Mutton Curry,Non-Veg,Half,305,0,305,Unpacked,3.6
+91,Thakur Chiefs,Delhi,Matar Paneer,Veg,Half,257,50,307,Packed,1.2
+92,Thakur Chiefs,Delhi,Egg Curry,Non-Veg,Half,262,50,312,Packed,4.8
+93,Thakur Chiefs,Delhi,Chicken Biryani,Non-Veg,Half,99,0,99,Unpacked,2.0
+94,Thakur Chiefs,Delhi,Tandoori Roti,Veg,Half,271,0,271,Unpacked,4.0
+95,Thakur Chiefs,Delhi,Butter Naan,Veg,Full,366,0,366,Unpacked,3.7
+96,Thakur Chiefs,Delhi,Mutton Rogan Josh,Non-Veg,Half,118,0,118,Unpacked,2.1
+97,Thakur Chiefs,Delhi,Tandoori Roti,Veg,Half,271,0,271,Unpacked,5.5
+98,Thakur Chiefs,Delhi,Mutton Rogan Josh,Non-Veg,Half,118,50,168,Packed,1.9
+99,Thakur Chiefs,Delhi,Palak Paneer,Veg,Full,221,50,271,Packed,1.1
+100,Thakur Chiefs,Delhi,Chicken Curry,Non-Veg,Half,274,0,274,Unpacked,2.5
+101,Thakur Chiefs,Delhi,Rajma Chawal,Veg,Full,290,0,290,Unpacked,1.1
+102,Thakur Chiefs,Delhi,Tandoori Chicken,Non-Veg,Half,161,50,211,Packed,2.9
+103,Thakur Chiefs,Delhi,Rajma Chawal,Veg,Half,174,0,174,Unpacked,5.1
+104,Thakur Chiefs,Delhi,Chicken Tikka Masala,Non-Veg,Half,156,0,156,Unpacked,5.7
+105,Thakur Chiefs,Delhi,Butter Naan,Veg,Half,219,50,269,Packed,4.9
+106,Thakur Chiefs,Delhi,Chicken Biryani,Non-Veg,Full,165,0,165,Unpacked,4.1
+107,Thakur Chiefs,Delhi,Baingan Bharta,Veg,Full,194,0,194,Unpacked,1.0
+108,Thakur Chiefs,Delhi,Mutton Rogan Josh,Non-Veg,Half,118,50,168,Packed,1.8
+109,Thakur Chiefs,Delhi,Malai Kofta,Veg,Half,316,0,316,Unpacked,1.0
+110,Thakur Chiefs,Delhi,Tandoori Roti,Veg,Full,452,50,502,Packed,3.4
+111,Thakur Chiefs,Delhi,Malai Kofta,Veg,Full,527,50,577,Packed,4.6
+112,Thakur Chiefs,Delhi,Tandoori Roti,Veg,Half,271,0,271,Unpacked,0.6
+113,Thakur Chiefs,Delhi,Prawn Masala,Non-Veg,Half,309,0,309,Unpacked,5.2
+114,Thakur Chiefs,Delhi,Dal Makhani,Veg,Full,207,0,207,Unpacked,2.1
+115,Thakur Chiefs,Delhi,Prawn Masala,Non-Veg,Half,309,0,309,Unpacked,5.2
+116,Thakur Chiefs,Delhi,Chole Bhature,Veg,Half,317,50,367,Packed,4.9
+117,Thakur Chiefs,Delhi,Mutton Rogan Josh,Non-Veg,Full,197,0,197,Unpacked,1.0
+118,Thakur Chiefs,Delhi,Rajma Chawal,Veg,Half,174,50,224,Packed,4.8
+119,Thakur Chiefs,Delhi,Mutton Rogan Josh,Non-Veg,Full,197,0,197,Unpacked,3.6
+120,Thakur Chiefs,Delhi,Veg Biryani,Veg,Full,275,0,275,Unpacked,1.7
+121,Thakur Chiefs,Delhi,Malai Kofta,Veg,Half,316,50,366,Packed,5.8
+122,Thakur Chiefs,Delhi,Chicken Korma,Non-Veg,Full,251,50,301,Packed,6.0
+123,Thakur Chiefs,Delhi,Chicken Handi,Non-Veg,Half,289,50,339,Packed,1.5
+124,Thakur Chiefs,Delhi,Chicken Curry,Non-Veg,Full,458,50,508,Packed,4.6
+125,Thakur Chiefs,Delhi,Fish Curry,Non-Veg,Full,408,0,408,Unpacked,0.9
+126,Thakur Chiefs,Delhi,Tandoori Chicken,Non-Veg,Full,269,0,269,Unpacked,2.3
+127,Thakur Chiefs,Delhi,Shahi Paneer,Veg,Half,97,0,97,Unpacked,3.1
+128,Thakur Chiefs,Delhi,Malai Kofta,Veg,Full,527,0,527,Unpacked,5.7
+129,Thakur Chiefs,Delhi,Mix Veg Curry,Veg,Half,297,50,347,Packed,4.4
+130,Thakur Chiefs,Delhi,Tandoori Roti,Veg,Full,452,50,502,Packed,4.8
+131,Thakur Chiefs,Delhi,Matar Paneer,Veg,Half,257,0,257,Unpacked,4.9
+132,Thakur Chiefs,Delhi,Butter Naan,Veg,Full,366,0,366,Unpacked,5.0
+133,Thakur Chiefs,Delhi,Mix Veg Curry,Veg,Half,297,0,297,Unpacked,4.7
+134,Thakur Chiefs,Delhi,Mutton Curry,Non-Veg,Half,305,50,355,Packed,0.6
+135,Thakur Chiefs,Delhi,Chicken Korma,Non-Veg,Full,251,50,301,Packed,0.7
+136,Thakur Chiefs,Delhi,Chicken Handi,Non-Veg,Half,289,0,289,Unpacked,2.7
+137,Thakur Chiefs,Delhi,Baingan Bharta,Veg,Half,116,50,166,Packed,5.3
+138,Thakur Chiefs,Delhi,Kadai Paneer,Veg,Half,121,0,121,Unpacked,0.6
+139,Thakur Chiefs,Delhi,Veg Pulao,Veg,Full,529,50,579,Packed,2.2
+140,Thakur Chiefs,Delhi,Mutton Curry,Non-Veg,Half,305,50,355,Packed,2.4
+141,Thakur Chiefs,Delhi,Kadai Paneer,Veg,Half,121,0,121,Unpacked,3.9
+142,Thakur Chiefs,Delhi,Chicken Curry,Non-Veg,Half,274,50,324,Packed,1.3
+143,Thakur Chiefs,Delhi,Shahi Paneer,Veg,Half,97,50,147,Packed,3.1
+144,Thakur Chiefs,Delhi,Tandoori Roti,Veg,Half,271,50,321,Packed,4.2
+145,Thakur Chiefs,Delhi,Prawn Masala,Non-Veg,Half,309,0,309,Unpacked,4.2
+146,Thakur Chiefs,Delhi,Butter Naan,Veg,Half,219,50,269,Packed,2.3
+147,Thakur Chiefs,Delhi,Mutton Biryani,Non-Veg,Half,97,50,147,Packed,1.9
+148,Thakur Chiefs,Delhi,Mutton Curry,Non-Veg,Full,509,50,559,Packed,2.3
+149,Thakur Chiefs,Delhi,Prawn Masala,Non-Veg,Half,309,50,359,Packed,0.4
+150,Thakur Chiefs,Delhi,Mutton Rogan Josh,Non-Veg,Half,118,50,168,Packed,2.6
+151,Thakur Chiefs,Delhi,Mutton Biryani,Non-Veg,Half,97,50,147,Packed,5.5
+152,Thakur Chiefs,Delhi,Chicken Tikka Masala,Non-Veg,Full,261,50,311,Packed,0.5
+153,Thakur Chiefs,Delhi,Chole Bhature,Veg,Half,317,50,367,Packed,3.5
+154,Thakur Chiefs,Delhi,Matar Paneer,Veg,Full,429,0,429,Unpacked,1.9
+155,Thakur Chiefs,Delhi,Rajma Chawal,Veg,Half,174,0,174,Unpacked,3.9
+156,Thakur Chiefs,Delhi,Palak Paneer,Veg,Full,221,50,271,Packed,5.1
+157,Thakur Chiefs,Delhi,Fish Curry,Non-Veg,Full,408,50,458,Packed,3.1
+158,Thakur Chiefs,Delhi,Butter Chicken,Non-Veg,Half,99,0,99,Unpacked,1.8
+159,Thakur Chiefs,Delhi,Dal Makhani,Veg,Half,124,0,124,Unpacked,2.3
+160,Thakur Chiefs,Delhi,Palak Paneer,Veg,Full,221,50,271,Packed,3.2
+161,Thakur Chiefs,Delhi,Paneer Butter Masala,Veg,Full,477,0,477,Unpacked,0.8
+162,Thakur Chiefs,Delhi,Chicken Handi,Non-Veg,Full,482,0,482,Unpacked,3.3
+163,Thakur Chiefs,Delhi,Veg Biryani,Veg,Full,275,50,325,Packed,0.1
+164,Thakur Chiefs,Delhi,Shahi Paneer,Veg,Half,97,0,97,Unpacked,1.3
+165,Thakur Chiefs,Delhi,Chicken Lollipop,Non-Veg,Half,257,0,257,Unpacked,3.0
+166,Thakur Chiefs,Delhi,Tandoori Chicken,Non-Veg,Full,269,0,269,Unpacked,4.2
+167,Thakur Chiefs,Delhi,Shahi Paneer,Veg,Half,97,0,97,Unpacked,0.5
+168,Thakur Chiefs,Delhi,Shahi Paneer,Veg,Half,97,50,147,Packed,3.2
+169,Thakur Chiefs,Delhi,Matar Paneer,Veg,Half,257,0,257,Unpacked,4.2
+170,Thakur Chiefs,Delhi,Mutton Biryani,Non-Veg,Half,97,50,147,Packed,1.5
+171,Thakur Chiefs,Delhi,Chicken Lollipop,Non-Veg,Full,429,50,479,Packed,2.7
+172,Thakur Chiefs,Delhi,Chicken Tikka Masala,Non-Veg,Half,156,0,156,Unpacked,4.0
+173,Thakur Chiefs,Delhi,Fish Curry,Non-Veg,Half,244,50,294,Packed,0.1
+174,Thakur Chiefs,Delhi,Rajma Chawal,Veg,Half,174,50,224,Packed,3.0
+175,Thakur Chiefs,Delhi,Veg Pulao,Veg,Full,529,50,579,Packed,2.2
+176,Thakur Chiefs,Delhi,Mutton Biryani,Non-Veg,Full,163,50,213,Packed,4.6
+177,Thakur Chiefs,Delhi,Paneer Butter Masala,Veg,Full,477,0,477,Unpacked,1.6
+178,Thakur Chiefs,Delhi,Shahi Paneer,Veg,Full,162,50,212,Packed,3.0
+179,Thakur Chiefs,Delhi,Butter Chicken,Non-Veg,Full,166,50,216,Packed,3.0
+180,Thakur Chiefs,Delhi,Mutton Rogan Josh,Non-Veg,Half,118,0,118,Unpacked,0.9
+181,Thakur Chiefs,Delhi,Egg Curry,Non-Veg,Half,262,50,312,Packed,1.4
+182,Thakur Chiefs,Delhi,Butter Chicken,Non-Veg,Half,99,50,149,Packed,5.2
+183,Thakur Chiefs,Delhi,Paneer Butter Masala,Veg,Half,286,50,336,Packed,2.8
+184,Thakur Chiefs,Delhi,Matar Paneer,Veg,Half,257,50,307,Packed,5.6
+185,Thakur Chiefs,Delhi,Chicken Handi,Non-Veg,Half,289,0,289,Unpacked,1.3
+186,Thakur Chiefs,Delhi,Palak Paneer,Veg,Full,221,0,221,Unpacked,1.6
+187,Thakur Chiefs,Delhi,Shahi Paneer,Veg,Full,162,50,212,Packed,3.0
+188,Thakur Chiefs,Delhi,Mutton Curry,Non-Veg,Half,305,50,355,Packed,1.3
+189,Thakur Chiefs,Delhi,Butter Chicken,Non-Veg,Half,99,0,99,Unpacked,0.4
+190,Thakur Chiefs,Delhi,Tandoori Roti,Veg,Full,452,0,452,Unpacked,2.0
+191,Thakur Chiefs,Delhi,Chicken Biryani,Non-Veg,Full,165,50,215,Packed,2.2
+192,Thakur Chiefs,Delhi,Kadai Paneer,Veg,Full,202,50,252,Packed,2.8
+193,Thakur Chiefs,Delhi,Mutton Rogan Josh,Non-Veg,Full,197,50,247,Packed,4.4
+194,Thakur Chiefs,Delhi,Chicken Biryani,Non-Veg,Half,99,50,149,Packed,0.0
+195,Thakur Chiefs,Delhi,Baingan Bharta,Veg,Half,116,50,166,Packed,3.2
+196,Thakur Chiefs,Delhi,Tandoori Chicken,Non-Veg,Half,161,0,161,Unpacked,0.0
+197,Thakur Chiefs,Delhi,Fish Curry,Non-Veg,Full,408,0,408,Unpacked,0.6
+198,Thakur Chiefs,Delhi,Butter Chicken,Non-Veg,Half,99,0,99,Unpacked,3.0
+199,Thakur Chiefs,Delhi,Dal Makhani,Veg,Half,124,0,124,Unpacked,0.6
+200,Thakur Chiefs,Delhi,Chicken Lollipop,Non-Veg,Half,257,0,257,Unpacked,4.2
+201,Thakur Chiefs,Delhi,Veg Pulao,Veg,Full,529,50,579,Packed,3.5
+202,Thakur Chiefs,Delhi,Butter Chicken,Non-Veg,Half,99,0,99,Unpacked,0.4
+203,Thakur Chiefs,Delhi,Mutton Rogan Josh,Non-Veg,Half,118,0,118,Unpacked,4.0
+204,Thakur Chiefs,Delhi,Rajma Chawal,Veg,Half,174,0,174,Unpacked,1.6
+205,Thakur Chiefs,Delhi,Mix Veg Curry,Veg,Full,496,0,496,Unpacked,1.9
+206,Thakur Chiefs,Delhi,Malai Kofta,Veg,Half,316,50,366,Packed,5.7
+207,Thakur Chiefs,Delhi,Rajma Chawal,Veg,Half,174,50,224,Packed,0.6
+208,Thakur Chiefs,Delhi,Tandoori Roti,Veg,Full,452,0,452,Unpacked,2.4
+209,Thakur Chiefs,Delhi,Chicken Biryani,Non-Veg,Full,165,50,215,Packed,2.7
+210,Thakur Chiefs,Delhi,Tandoori Roti,Veg,Full,452,50,502,Packed,0.5
+211,Thakur Chiefs,Delhi,Chicken Korma,Non-Veg,Full,251,50,301,Packed,1.3
+212,Thakur Chiefs,Delhi,Chicken Handi,Non-Veg,Full,482,50,532,Packed,0.5
+213,Thakur Chiefs,Delhi,Palak Paneer,Veg,Full,221,0,221,Unpacked,3.1
+214,Thakur Chiefs,Delhi,Fish Curry,Non-Veg,Full,408,0,408,Unpacked,4.9
+215,Thakur Chiefs,Delhi,Veg Biryani,Veg,Half,165,0,165,Unpacked,5.1
+216,Thakur Chiefs,Delhi,Chicken Biryani,Non-Veg,Half,99,50,149,Packed,2.8
+217,Thakur Chiefs,Delhi,Chicken Korma,Non-Veg,Half,150,50,200,Packed,0.1
+218,Thakur Chiefs,Delhi,Prawn Masala,Non-Veg,Half,309,50,359,Packed,1.2
+219,Thakur Chiefs,Delhi,Matar Paneer,Veg,Full,429,50,479,Packed,3.5
+220,Thakur Chiefs,Delhi,Malai Kofta,Veg,Half,316,50,366,Packed,6.0
+221,Thakur Chiefs,Delhi,Aloo Gobi,Veg,Full,264,50,314,Packed,0.6
+222,Thakur Chiefs,Delhi,Chicken Handi,Non-Veg,Full,482,50,532,Packed,0.3
+223,Thakur Chiefs,Delhi,Tandoori Roti,Veg,Half,271,50,321,Packed,5.5
+224,Thakur Chiefs,Delhi,Baingan Bharta,Veg,Full,194,0,194,Unpacked,0.2
+225,Thakur Chiefs,Delhi,Fish Curry,Non-Veg,Full,408,50,458,Packed,2.1
+226,Thakur Chiefs,Delhi,Chicken Lollipop,Non-Veg,Half,257,0,257,Unpacked,1.7
+227,Thakur Chiefs,Delhi,Mutton Curry,Non-Veg,Half,305,50,355,Packed,3.7
+228,Thakur Chiefs,Delhi,Chicken Tikka Masala,Non-Veg,Half,156,0,156,Unpacked,3.0
+229,Thakur Chiefs,Delhi,Mutton Curry,Non-Veg,Full,509,50,559,Packed,0.5
+230,Thakur Chiefs,Delhi,Matar Paneer,Veg,Half,257,0,257,Unpacked,1.2
+231,Thakur Chiefs,Delhi,Mutton Curry,Non-Veg,Half,305,50,355,Packed,5.9
+232,Thakur Chiefs,Delhi,Chicken Korma,Non-Veg,Full,251,0,251,Unpacked,3.3
+233,Thakur Chiefs,Delhi,Butter Naan,Veg,Full,366,0,366,Unpacked,2.3
+234,Thakur Chiefs,Delhi,Veg Biryani,Veg,Half,165,0,165,Unpacked,3.6
+235,Thakur Chiefs,Delhi,Paneer Butter Masala,Veg,Full,477,50,527,Packed,4.9
+236,Thakur Chiefs,Delhi,Butter Naan,Veg,Full,366,50,416,Packed,5.8
+237,Thakur Chiefs,Delhi,Chole Bhature,Veg,Half,317,50,367,Packed,1.6
+238,Thakur Chiefs,Delhi,Prawn Masala,Non-Veg,Half,309,50,359,Packed,3.5
+239,Thakur Chiefs,Delhi,Chicken Korma,Non-Veg,Full,251,0,251,Unpacked,5.6
+240,Thakur Chiefs,Delhi,Chicken Handi,Non-Veg,Half,289,50,339,Packed,1.4
+241,Thakur Chiefs,Delhi,Mix Veg Curry,Veg,Full,496,50,546,Packed,4.2
+242,Thakur Chiefs,Delhi,Veg Pulao,Veg,Half,317,50,367,Packed,5.0
+243,Thakur Chiefs,Delhi,Chicken Korma,Non-Veg,Full,251,0,251,Unpacked,1.1
+244,Thakur Chiefs,Delhi,Dal Makhani,Veg,Half,124,50,174,Packed,1.4
+245,Thakur Chiefs,Delhi,Palak Paneer,Veg,Half,132,0,132,Unpacked,0.0
+246,Thakur Chiefs,Delhi,Chicken Lollipop,Non-Veg,Half,257,50,307,Packed,2.0
+247,Thakur Chiefs,Delhi,Veg Biryani,Veg,Full,275,50,325,Packed,0.1
+248,Thakur Chiefs,Delhi,Mutton Rogan Josh,Non-Veg,Half,118,50,168,Packed,5.1
+249,Thakur Chiefs,Delhi,Chicken Handi,Non-Veg,Full,482,50,532,Packed,2.2
+250,Thakur Chiefs,Delhi,Fish Curry,Non-Veg,Full,408,50,458,Packed,2.0
+251,Thakur Chiefs,Delhi,Mix Veg Curry,Veg,Half,297,50,347,Packed,4.4
+252,Thakur Chiefs,Delhi,Baingan Bharta,Veg,Full,194,0,194,Unpacked,1.0
+253,Thakur Chiefs,Delhi,Chicken Biryani,Non-Veg,Full,165,50,215,Packed,4.0
+254,Thakur Chiefs,Delhi,Prawn Masala,Non-Veg,Half,309,0,309,Unpacked,1.8
+255,Thakur Chiefs,Delhi,Chicken Curry,Non-Veg,Full,458,50,508,Packed,1.1
+256,Thakur Chiefs,Delhi,Paneer Butter Masala,Veg,Full,477,50,527,Packed,1.1
+257,Thakur Chiefs,Delhi,Mix Veg Curry,Veg,Half,297,50,347,Packed,5.6
+258,Thakur Chiefs,Delhi,Rajma Chawal,Veg,Full,290,50,340,Packed,1.4
+259,Thakur Chiefs,Delhi,Mix Veg Curry,Veg,Half,297,50,347,Packed,4.9
+260,Thakur Chiefs,Delhi,Fish Curry,Non-Veg,Full,408,0,408,Unpacked,0.1
+261,Thakur Chiefs,Delhi,Aloo Gobi,Veg,Half,158,50,208,Packed,2.1
+262,Thakur Chiefs,Delhi,Chicken Korma,Non-Veg,Half,150,50,200,Packed,0.3
+263,Thakur Chiefs,Delhi,Tandoori Roti,Veg,Full,452,50,502,Packed,5.3
+264,Thakur Chiefs,Delhi,Butter Naan,Veg,Full,366,0,366,Unpacked,3.3
+265,Thakur Chiefs,Delhi,Chole Bhature,Veg,Full,529,50,579,Packed,1.0
+266,Thakur Chiefs,Delhi,Shahi Paneer,Veg,Half,97,0,97,Unpacked,0.1
+267,Thakur Chiefs,Delhi,Malai Kofta,Veg,Half,316,50,366,Packed,2.1
+268,Thakur Chiefs,Delhi,Mutton Curry,Non-Veg,Full,509,50,559,Packed,4.4
+269,Thakur Chiefs,Delhi,Chicken Biryani,Non-Veg,Half,99,0,99,Unpacked,3.6
+270,Thakur Chiefs,Delhi,Chicken Tikka Masala,Non-Veg,Full,261,50,311,Packed,2.6
+271,Thakur Chiefs,Delhi,Tandoori Chicken,Non-Veg,Half,161,0,161,Unpacked,0.9
+272,Thakur Chiefs,Delhi,Chole Bhature,Veg,Full,529,50,579,Packed,5.8
+273,Thakur Chiefs,Delhi,Baingan Bharta,Veg,Full,194,0,194,Unpacked,1.8
+274,Thakur Chiefs,Delhi,Chole Bhature,Veg,Half,317,0,317,Unpacked,3.4
+275,Thakur Chiefs,Delhi,Prawn Masala,Non-Veg,Full,516,50,566,Packed,0.3
+276,Thakur Chiefs,Delhi,Paneer Butter Masala,Veg,Full,477,50,527,Packed,1.8
+277,Thakur Chiefs,Delhi,Fish Curry,Non-Veg,Full,408,50,458,Packed,0.6
+278,Thakur Chiefs,Delhi,Aloo Gobi,Veg,Half,158,0,158,Unpacked,5.9
+279,Thakur Chiefs,Delhi,Butter Naan,Veg,Half,219,0,219,Unpacked,4.7
+280,Thakur Chiefs,Delhi,Butter Naan,Veg,Full,366,0,366,Unpacked,0.5
+281,Thakur Chiefs,Delhi,Chicken Biryani,Non-Veg,Full,165,50,215,Packed,2.2
+282,Thakur Chiefs,Delhi,Matar Paneer,Veg,Full,429,50,479,Packed,2.7
+283,Thakur Chiefs,Delhi,Malai Kofta,Veg,Full,527,0,527,Unpacked,1.6
+284,Thakur Chiefs,Delhi,Prawn Masala,Non-Veg,Full,516,50,566,Packed,0.9
+285,Thakur Chiefs,Delhi,Chicken Curry,Non-Veg,Half,274,50,324,Packed,4.0
+286,Thakur Chiefs,Delhi,Chicken Korma,Non-Veg,Full,251,50,301,Packed,3.3
+287,Thakur Chiefs,Delhi,Prawn Masala,Non-Veg,Full,516,0,516,Unpacked,5.8
+288,Thakur Chiefs,Delhi,Fish Curry,Non-Veg,Full,408,50,458,Packed,2.9
+289,Thakur Chiefs,Delhi,Shahi Paneer,Veg,Full,162,50,212,Packed,3.0
+290,Thakur Chiefs,Delhi,Mutton Curry,Non-Veg,Half,305,50,355,Packed,5.7
+291,Thakur Chiefs,Delhi,Tandoori Roti,Veg,Half,271,50,321,Packed,5.8
+292,Thakur Chiefs,Delhi,Chicken Korma,Non-Veg,Half,150,50,200,Packed,0.3
+293,Thakur Chiefs,Delhi,Shahi Paneer,Veg,Full,162,50,212,Packed,6.0
+294,Thakur Chiefs,Delhi,Tandoori Chicken,Non-Veg,Half,161,0,161,Unpacked,1.9
+295,Thakur Chiefs,Delhi,Mutton Biryani,Non-Veg,Half,97,50,147,Packed,2.3
+296,Thakur Chiefs,Delhi,Matar Paneer,Veg,Full,429,0,429,Unpacked,3.1
+297,Thakur Chiefs,Delhi,Chicken Lollipop,Non-Veg,Half,257,0,257,Unpacked,0.7
+298,Thakur Chiefs,Delhi,Rajma Chawal,Veg,Half,174,50,224,Packed,5.5
+299,Thakur Chiefs,Delhi,Mutton Rogan Josh,Non-Veg,Half,118,0,118,Unpacked,5.2
+300,Thakur Chiefs,Delhi,Mutton Curry,Non-Veg,Full,509,0,509,Unpacked,1.6
+301,Thakur Chiefs,Delhi,Tandoori Chicken,Non-Veg,Full,269,0,269,Unpacked,0.2
+302,Thakur Chiefs,Delhi,Malai Kofta,Veg,Full,527,50,577,Packed,3.7
+303,Thakur Chiefs,Delhi,Fish Curry,Non-Veg,Full,408,50,458,Packed,2.4
+304,Thakur Chiefs,Delhi,Mutton Curry,Non-Veg,Full,509,50,559,Packed,0.3
+305,Thakur Chiefs,Delhi,Butter Naan,Veg,Full,366,0,366,Unpacked,0.1
+306,Thakur Chiefs,Delhi,Prawn Masala,Non-Veg,Full,516,0,516,Unpacked,1.7
+307,Thakur Chiefs,Delhi,Butter Naan,Veg,Half,219,50,269,Packed,0.8
+308,Thakur Chiefs,Delhi,Mutton Biryani,Non-Veg,Full,163,0,163,Unpacked,1.6
+309,Thakur Chiefs,Delhi,Baingan Bharta,Veg,Half,116,50,166,Packed,2.7
+310,Thakur Chiefs,Delhi,Chicken Lollipop,Non-Veg,Full,429,0,429,Unpacked,4.6
+311,Thakur Chiefs,Delhi,Chicken Handi,Non-Veg,Full,482,50,532,Packed,3.1
+312,Thakur Chiefs,Delhi,Veg Biryani,Veg,Half,165,0,165,Unpacked,4.3
+313,Thakur Chiefs,Delhi,Matar Paneer,Veg,Half,257,50,307,Packed,1.0
+314,Thakur Chiefs,Delhi,Mutton Curry,Non-Veg,Half,305,50,355,Packed,1.5
+315,Thakur Chiefs,Delhi,Tandoori Roti,Veg,Half,271,0,271,Unpacked,4.2
+316,Thakur Chiefs,Delhi,Malai Kofta,Veg,Full,527,0,527,Unpacked,3.0
+317,Thakur Chiefs,Delhi,Tandoori Chicken,Non-Veg,Half,161,50,211,Packed,1.5
+318,Thakur Chiefs,Delhi,Butter Naan,Veg,Full,366,50,416,Packed,5.8
+319,Thakur Chiefs,Delhi,Butter Naan,Veg,Full,366,0,366,Unpacked,1.0
+320,Thakur Chiefs,Delhi,Mutton Curry,Non-Veg,Full,509,50,559,Packed,1.7
+321,Thakur Chiefs,Delhi,Matar Paneer,Veg,Half,257,50,307,Packed,5.1
+322,Thakur Chiefs,Delhi,Egg Curry,Non-Veg,Half,262,50,312,Packed,3.9
+323,Thakur Chiefs,Delhi,Fish Curry,Non-Veg,Half,244,0,244,Unpacked,3.9
+324,Thakur Chiefs,Delhi,Butter Chicken,Non-Veg,Half,99,50,149,Packed,2.8
+325,Thakur Chiefs,Delhi,Rajma Chawal,Veg,Half,174,50,224,Packed,1.3
+326,Thakur Chiefs,Delhi,Chicken Tikka Masala,Non-Veg,Full,261,0,261,Unpacked,2.5
+327,Thakur Chiefs,Delhi,Matar Paneer,Veg,Full,429,0,429,Unpacked,1.5
+328,Thakur Chiefs,Delhi,Tandoori Roti,Veg,Full,452,0,452,Unpacked,3.5
+329,Thakur Chiefs,Delhi,Paneer Butter Masala,Veg,Full,477,0,477,Unpacked,1.8
+330,Thakur Chiefs,Delhi,Chole Bhature,Veg,Full,529,50,579,Packed,2.0
+331,Thakur Chiefs,Delhi,Malai Kofta,Veg,Full,527,0,527,Unpacked,1.6
+332,Thakur Chiefs,Delhi,Chicken Curry,Non-Veg,Full,458,50,508,Packed,0.9
+333,Thakur Chiefs,Delhi,Egg Curry,Non-Veg,Half,262,50,312,Packed,4.8
+334,Thakur Chiefs,Delhi,Chicken Korma,Non-Veg,Full,251,0,251,Unpacked,4.1
+335,Thakur Chiefs,Delhi,Mutton Biryani,Non-Veg,Half,97,0,97,Unpacked,6.0
+336,Thakur Chiefs,Delhi,Malai Kofta,Veg,Full,527,0,527,Unpacked,2.3
+337,Thakur Chiefs,Delhi,Dal Makhani,Veg,Half,124,0,124,Unpacked,4.4
+338,Thakur Chiefs,Delhi,Palak Paneer,Veg,Full,221,0,221,Unpacked,3.0
+339,Thakur Chiefs,Delhi,Chicken Handi,Non-Veg,Half,289,50,339,Packed,1.8
+340,Thakur Chiefs,Delhi,Butter Naan,Veg,Half,219,0,219,Unpacked,4.4
+341,Thakur Chiefs,Delhi,Chicken Biryani,Non-Veg,Half,99,0,99,Unpacked,3.9
+342,Thakur Chiefs,Delhi,Palak Paneer,Veg,Full,221,50,271,Packed,4.5
+343,Thakur Chiefs,Delhi,Kadai Paneer,Veg,Full,202,0,202,Unpacked,2.2
+344,Thakur Chiefs,Delhi,Mutton Rogan Josh,Non-Veg,Full,197,0,197,Unpacked,5.1
+345,Thakur Chiefs,Delhi,Butter Naan,Veg,Half,219,50,269,Packed,2.8
+346,Thakur Chiefs,Delhi,Aloo Gobi,Veg,Half,158,0,158,Unpacked,3.2
+347,Thakur Chiefs,Delhi,Baingan Bharta,Veg,Half,116,50,166,Packed,0.8
+348,Thakur Chiefs,Delhi,Aloo Gobi,Veg,Full,264,0,264,Unpacked,5.9
+349,Thakur Chiefs,Delhi,Mutton Curry,Non-Veg,Full,509,50,559,Packed,1.9
+350,Thakur Chiefs,Delhi,Chicken Curry,Non-Veg,Half,274,50,324,Packed,2.9
+351,Thakur Chiefs,Delhi,Tandoori Chicken,Non-Veg,Half,161,0,161,Unpacked,3.8
+352,Thakur Chiefs,Delhi,Paneer Butter Masala,Veg,Full,477,0,477,Unpacked,1.3
+353,Thakur Chiefs,Delhi,Egg Curry,Non-Veg,Half,262,50,312,Packed,2.9
+354,Thakur Chiefs,Delhi,Egg Curry,Non-Veg,Half,262,50,312,Packed,3.7
+355,Thakur Chiefs,Delhi,Tandoori Chicken,Non-Veg,Full,269,0,269,Unpacked,2.6
+356,Thakur Chiefs,Delhi,Butter Naan,Veg,Full,366,50,416,Packed,0.2
+357,Thakur Chiefs,Delhi,Aloo Gobi,Veg,Full,264,50,314,Packed,5.4
+358,Thakur Chiefs,Delhi,Egg Curry,Non-Veg,Half,262,50,312,Packed,4.1
+359,Thakur Chiefs,Delhi,Tandoori Chicken,Non-Veg,Half,161,50,211,Packed,4.2
+360,Thakur Chiefs,Delhi,Veg Pulao,Veg,Full,529,50,579,Packed,0.6
+361,Thakur Chiefs,Delhi,Butter Chicken,Non-Veg,Full,166,50,216,Packed,0.4
+362,Thakur Chiefs,Delhi,Dal Makhani,Veg,Full,207,0,207,Unpacked,2.7
+363,Thakur Chiefs,Delhi,Butter Chicken,Non-Veg,Full,166,0,166,Unpacked,5.3
+364,Thakur Chiefs,Delhi,Rajma Chawal,Veg,Full,290,0,290,Unpacked,2.2
+365,Thakur Chiefs,Delhi,Aloo Gobi,Veg,Half,158,0,158,Unpacked,0.1
+366,Thakur Chiefs,Delhi,Palak Paneer,Veg,Half,132,50,182,Packed,4.4
+367,Thakur Chiefs,Delhi,Mutton Rogan Josh,Non-Veg,Half,118,50,168,Packed,2.2
+368,Thakur Chiefs,Delhi,Tandoori Chicken,Non-Veg,Half,161,0,161,Unpacked,5.3
+369,Thakur Chiefs,Delhi,Malai Kofta,Veg,Half,316,50,366,Packed,4.0
+370,Thakur Chiefs,Delhi,Tandoori Chicken,Non-Veg,Half,161,50,211,Packed,4.1
+371,Thakur Chiefs,Delhi,Baingan Bharta,Veg,Full,194,0,194,Unpacked,0.7
+372,Thakur Chiefs,Delhi,Malai Kofta,Veg,Full,527,50,577,Packed,1.2
+373,Thakur Chiefs,Delhi,Fish Curry,Non-Veg,Half,244,0,244,Unpacked,2.5
+374,Thakur Chiefs,Delhi,Chole Bhature,Veg,Full,529,50,579,Packed,2.5
+375,Thakur Chiefs,Delhi,Mutton Curry,Non-Veg,Half,305,50,355,Packed,1.7
+376,Thakur Chiefs,Delhi,Chicken Korma,Non-Veg,Half,150,0,150,Unpacked,1.2
+377,Thakur Chiefs,Delhi,Aloo Gobi,Veg,Full,264,50,314,Packed,2.1
+378,Thakur Chiefs,Delhi,Baingan Bharta,Veg,Full,194,50,244,Packed,0.2
+379,Thakur Chiefs,Delhi,Butter Naan,Veg,Half,219,0,219,Unpacked,2.0
+380,Thakur Chiefs,Delhi,Paneer Butter Masala,Veg,Half,286,50,336,Packed,5.4
+381,Thakur Chiefs,Delhi,Prawn Masala,Non-Veg,Full,516,50,566,Packed,5.7
+382,Thakur Chiefs,Delhi,Egg Curry,Non-Veg,Half,262,50,312,Packed,5.4
+383,Thakur Chiefs,Delhi,Tandoori Chicken,Non-Veg,Half,161,0,161,Unpacked,5.9
+384,Thakur Chiefs,Delhi,Kadai Paneer,Veg,Full,202,0,202,Unpacked,0.3
+385,Thakur Chiefs,Delhi,Prawn Masala,Non-Veg,Half,309,50,359,Packed,5.1
+386,Thakur Chiefs,Delhi,Veg Pulao,Veg,Full,529,0,529,Unpacked,4.4
+387,Thakur Chiefs,Delhi,Chole Bhature,Veg,Half,317,50,367,Packed,5.1
+388,Thakur Chiefs,Delhi,Fish Curry,Non-Veg,Half,244,0,244,Unpacked,2.1
+389,Thakur Chiefs,Delhi,Tandoori Roti,Veg,Full,452,50,502,Packed,2.2
+390,Thakur Chiefs,Delhi,Mix Veg Curry,Veg,Half,297,50,347,Packed,2.4
+391,Thakur Chiefs,Delhi,Tandoori Roti,Veg,Full,452,0,452,Unpacked,4.1
+392,Thakur Chiefs,Delhi,Butter Naan,Veg,Full,366,50,416,Packed,0.7
+393,Thakur Chiefs,Delhi,Chicken Curry,Non-Veg,Half,274,50,324,Packed,0.6
+394,Thakur Chiefs,Delhi,Chicken Lollipop,Non-Veg,Full,429,0,429,Unpacked,1.1
+395,Thakur Chiefs,Delhi,Matar Paneer,Veg,Full,429,50,479,Packed,5.2
+396,Thakur Chiefs,Delhi,Mutton Curry,Non-Veg,Half,305,0,305,Unpacked,5.5
+397,Thakur Chiefs,Delhi,Chole Bhature,Veg,Full,529,0,529,Unpacked,0.3
+398,Thakur Chiefs,Delhi,Malai Kofta,Veg,Full,527,50,577,Packed,4.2
+399,Thakur Chiefs,Delhi,Fish Curry,Non-Veg,Half,244,0,244,Unpacked,3.1
+400,Thakur Chiefs,Delhi,Chicken Curry,Non-Veg,Half,274,0,274,Unpacked,4.0
+401,Thakur Chiefs,Delhi,Palak Paneer,Veg,Full,221,0,221,Unpacked,4.0
+402,Thakur Chiefs,Delhi,Tandoori Chicken,Non-Veg,Full,269,50,319,Packed,5.0
+403,Thakur Chiefs,Delhi,Chicken Biryani,Non-Veg,Half,99,50,149,Packed,3.9
+404,Thakur Chiefs,Delhi,Veg Biryani,Veg,Full,275,0,275,Unpacked,5.2
+405,Thakur Chiefs,Delhi,Shahi Paneer,Veg,Full,162,0,162,Unpacked,1.4
+406,Thakur Chiefs,Delhi,Malai Kofta,Veg,Half,316,50,366,Packed,3.3
+407,Thakur Chiefs,Delhi,Matar Paneer,Veg,Full,429,50,479,Packed,0.5
+408,Thakur Chiefs,Delhi,Tandoori Roti,Veg,Full,452,50,502,Packed,5.1
+409,Thakur Chiefs,Delhi,Tandoori Roti,Veg,Full,452,50,502,Packed,5.9
+410,Thakur Chiefs,Delhi,Mutton Biryani,Non-Veg,Half,97,50,147,Packed,2.4
+411,Thakur Chiefs,Delhi,Dal Makhani,Veg,Half,124,50,174,Packed,4.8
+412,Thakur Chiefs,Delhi,Chicken Tikka Masala,Non-Veg,Full,261,50,311,Packed,3.9
+413,Thakur Chiefs,Delhi,Tandoori Roti,Veg,Full,452,0,452,Unpacked,5.0
+414,Thakur Chiefs,Delhi,Prawn Masala,Non-Veg,Half,309,0,309,Unpacked,2.0
+415,Thakur Chiefs,Delhi,Egg Curry,Non-Veg,Full,437,0,437,Unpacked,4.3
+416,Thakur Chiefs,Delhi,Chole Bhature,Veg,Half,317,50,367,Packed,0.0
+417,Thakur Chiefs,Delhi,Veg Pulao,Veg,Full,529,0,529,Unpacked,4.2
+418,Thakur Chiefs,Delhi,Dal Makhani,Veg,Half,124,0,124,Unpacked,0.8
+419,Thakur Chiefs,Delhi,Chicken Curry,Non-Veg,Full,458,50,508,Packed,1.5
+420,Thakur Chiefs,Delhi,Aloo Gobi,Veg,Half,158,50,208,Packed,5.6
+421,Thakur Chiefs,Delhi,Matar Paneer,Veg,Half,257,0,257,Unpacked,4.9
+422,Thakur Chiefs,Delhi,Aloo Gobi,Veg,Full,264,50,314,Packed,4.5
+423,Thakur Chiefs,Delhi,Dal Makhani,Veg,Half,124,0,124,Unpacked,2.7
+424,Thakur Chiefs,Delhi,Mutton Rogan Josh,Non-Veg,Half,118,0,118,Unpacked,0.0
+425,Thakur Chiefs,Delhi,Mutton Biryani,Non-Veg,Half,97,0,97,Unpacked,5.0
+426,Thakur Chiefs,Delhi,Butter Naan,Veg,Half,219,50,269,Packed,4.4
+427,Thakur Chiefs,Delhi,Rajma Chawal,Veg,Half,174,0,174,Unpacked,3.9
+428,Thakur Chiefs,Delhi,Chicken Tikka Masala,Non-Veg,Full,261,0,261,Unpacked,2.5
+429,Thakur Chiefs,Delhi,Chicken Tikka Masala,Non-Veg,Half,156,0,156,Unpacked,2.4
+430,Thakur Chiefs,Delhi,Mix Veg Curry,Veg,Full,496,0,496,Unpacked,4.8
+431,Thakur Chiefs,Delhi,Rajma Chawal,Veg,Full,290,0,290,Unpacked,5.1
+432,Thakur Chiefs,Delhi,Chicken Biryani,Non-Veg,Full,165,50,215,Packed,1.2
+433,Thakur Chiefs,Delhi,Chicken Tikka Masala,Non-Veg,Full,261,0,261,Unpacked,5.5
+434,Thakur Chiefs,Delhi,Rajma Chawal,Veg,Half,174,0,174,Unpacked,4.3
+435,Thakur Chiefs,Delhi,Egg Curry,Non-Veg,Full,437,0,437,Unpacked,3.5
+436,Thakur Chiefs,Delhi,Fish Curry,Non-Veg,Full,408,0,408,Unpacked,5.3
+437,Thakur Chiefs,Delhi,Baingan Bharta,Veg,Half,116,50,166,Packed,0.2
+438,Thakur Chiefs,Delhi,Rajma Chawal,Veg,Half,174,50,224,Packed,1.2
+439,Thakur Chiefs,Delhi,Egg Curry,Non-Veg,Half,262,0,262,Unpacked,4.1
+440,Thakur Chiefs,Delhi,Rajma Chawal,Veg,Half,174,0,174,Unpacked,1.2
+441,Thakur Chiefs,Delhi,Chicken Biryani,Non-Veg,Half,99,0,99,Unpacked,4.9
+442,Thakur Chiefs,Delhi,Chole Bhature,Veg,Half,317,0,317,Unpacked,1.4
+443,Thakur Chiefs,Delhi,Chicken Korma,Non-Veg,Full,251,50,301,Packed,5.6
+444,Thakur Chiefs,Delhi,Matar Paneer,Veg,Full,429,0,429,Unpacked,5.8
+445,Thakur Chiefs,Delhi,Dal Makhani,Veg,Half,124,0,124,Unpacked,1.2
+446,Thakur Chiefs,Delhi,Chicken Handi,Non-Veg,Full,482,50,532,Packed,5.5
+447,Thakur Chiefs,Delhi,Chicken Curry,Non-Veg,Full,458,50,508,Packed,4.7
+448,Thakur Chiefs,Delhi,Aloo Gobi,Veg,Full,264,0,264,Unpacked,1.1
+449,Thakur Chiefs,Delhi,Fish Curry,Non-Veg,Half,244,50,294,Packed,5.8
+450,Thakur Chiefs,Delhi,Mutton Biryani,Non-Veg,Half,97,0,97,Unpacked,0.2
+451,Thakur Chiefs,Delhi,Malai Kofta,Veg,Full,527,50,577,Packed,1.0
+452,Thakur Chiefs,Delhi,Chicken Handi,Non-Veg,Full,482,50,532,Packed,2.0
+453,Thakur Chiefs,Delhi,Chicken Curry,Non-Veg,Half,274,50,324,Packed,0.9
+454,Thakur Chiefs,Delhi,Mix Veg Curry,Veg,Half,297,0,297,Unpacked,2.9
+455,Thakur Chiefs,Delhi,Mutton Rogan Josh,Non-Veg,Full,197,50,247,Packed,4.7
+456,Thakur Chiefs,Delhi,Mix Veg Curry,Veg,Half,297,50,347,Packed,3.1
+457,Thakur Chiefs,Delhi,Chicken Korma,Non-Veg,Half,150,0,150,Unpacked,3.3
+458,Thakur Chiefs,Delhi,Matar Paneer,Veg,Half,257,0,257,Unpacked,1.3
+459,Thakur Chiefs,Delhi,Aloo Gobi,Veg,Full,264,0,264,Unpacked,2.2
+460,Thakur Chiefs,Delhi,Aloo Gobi,Veg,Full,264,50,314,Packed,0.7
+461,Thakur Chiefs,Delhi,Veg Pulao,Veg,Full,529,50,579,Packed,5.4
+462,Thakur Chiefs,Delhi,Chicken Tikka Masala,Non-Veg,Half,156,50,206,Packed,4.1
+463,Thakur Chiefs,Delhi,Mix Veg Curry,Veg,Full,496,50,546,Packed,2.3
+464,Thakur Chiefs,Delhi,Chicken Biryani,Non-Veg,Full,165,50,215,Packed,5.5
+465,Thakur Chiefs,Delhi,Prawn Masala,Non-Veg,Full,516,0,516,Unpacked,2.9
+466,Thakur Chiefs,Delhi,Kadai Paneer,Veg,Half,121,0,121,Unpacked,3.1
+467,Thakur Chiefs,Delhi,Chole Bhature,Veg,Half,317,50,367,Packed,3.8
+468,Thakur Chiefs,Delhi,Aloo Gobi,Veg,Half,158,0,158,Unpacked,5.0
+469,Thakur Chiefs,Delhi,Aloo Gobi,Veg,Full,264,50,314,Packed,4.5
+470,Thakur Chiefs,Delhi,Rajma Chawal,Veg,Half,174,0,174,Unpacked,4.3
+471,Thakur Chiefs,Delhi,Dal Makhani,Veg,Half,124,50,174,Packed,0.3
+472,Thakur Chiefs,Delhi,Chicken Korma,Non-Veg,Full,251,50,301,Packed,3.4
+473,Thakur Chiefs,Delhi,Palak Paneer,Veg,Full,221,0,221,Unpacked,2.3
+474,Thakur Chiefs,Delhi,Tandoori Chicken,Non-Veg,Full,269,0,269,Unpacked,1.9
+475,Thakur Chiefs,Delhi,Matar Paneer,Veg,Half,257,50,307,Packed,3.8
+476,Thakur Chiefs,Delhi,Chicken Tikka Masala,Non-Veg,Half,156,50,206,Packed,4.2
+477,Thakur Chiefs,Delhi,Shahi Paneer,Veg,Full,162,50,212,Packed,1.7
+478,Thakur Chiefs,Delhi,Fish Curry,Non-Veg,Full,408,50,458,Packed,1.7
+479,Thakur Chiefs,Delhi,Chicken Lollipop,Non-Veg,Full,429,0,429,Unpacked,2.4
+480,Thakur Chiefs,Delhi,Fish Curry,Non-Veg,Half,244,0,244,Unpacked,0.9
+481,Thakur Chiefs,Delhi,Palak Paneer,Veg,Half,132,0,132,Unpacked,4.8
+482,Thakur Chiefs,Delhi,Chicken Handi,Non-Veg,Full,482,50,532,Packed,1.8
+483,Thakur Chiefs,Delhi,Mutton Curry,Non-Veg,Full,509,50,559,Packed,3.3
+484,Thakur Chiefs,Delhi,Chicken Biryani,Non-Veg,Half,99,50,149,Packed,0.3
+485,Thakur Chiefs,Delhi,Mutton Rogan Josh,Non-Veg,Full,197,50,247,Packed,1.8
+486,Thakur Chiefs,Delhi,Mutton Biryani,Non-Veg,Full,163,50,213,Packed,2.5
+487,Thakur Chiefs,Delhi,Tandoori Chicken,Non-Veg,Half,161,50,211,Packed,1.1
+488,Thakur Chiefs,Delhi,Chicken Tikka Masala,Non-Veg,Full,261,50,311,Packed,0.7
+489,Thakur Chiefs,Delhi,Fish Curry,Non-Veg,Half,244,0,244,Unpacked,3.9
+490,Thakur Chiefs,Delhi,Shahi Paneer,Veg,Full,162,50,212,Packed,1.5
+491,Thakur Chiefs,Delhi,Aloo Gobi,Veg,Full,264,0,264,Unpacked,2.1
+492,Thakur Chiefs,Delhi,Fish Curry,Non-Veg,Half,244,50,294,Packed,1.7
+493,Thakur Chiefs,Delhi,Shahi Paneer,Veg,Half,97,0,97,Unpacked,2.9
+494,Thakur Chiefs,Delhi,Mix Veg Curry,Veg,Full,496,50,546,Packed,3.4
+495,Thakur Chiefs,Delhi,Veg Pulao,Veg,Full,529,0,529,Unpacked,1.0
+496,Thakur Chiefs,Delhi,Mix Veg Curry,Veg,Half,297,50,347,Packed,4.3
+497,Thakur Chiefs,Delhi,Tandoori Chicken,Non-Veg,Full,269,0,269,Unpacked,5.0
+498,Thakur Chiefs,Delhi,Rajma Chawal,Veg,Full,290,0,290,Unpacked,2.8
+499,Thakur Chiefs,Delhi,Veg Pulao,Veg,Full,529,0,529,Unpacked,3.3
+500,Thakur Chiefs,Delhi,Veg Biryani,Veg,Half,165,0,165,Unpacked,5.2
+501,Thakur Chiefs,Delhi,Rajma Chawal,Veg,Half,174,0,174,Unpacked,4.4
+502,Thakur Chiefs,Delhi,Tandoori Chicken,Non-Veg,Half,161,50,211,Packed,5.4
+503,Thakur Chiefs,Delhi,Chicken Handi,Non-Veg,Half,289,0,289,Unpacked,4.6
+504,Thakur Chiefs,Delhi,Aloo Gobi,Veg,Half,158,0,158,Unpacked,3.3
+505,Thakur Chiefs,Delhi,Chicken Biryani,Non-Veg,Full,165,50,215,Packed,2.2
+506,Thakur Chiefs,Delhi,Palak Paneer,Veg,Full,221,50,271,Packed,2.8
+507,Thakur Chiefs,Delhi,Butter Chicken,Non-Veg,Half,99,0,99,Unpacked,2.2
+508,Thakur Chiefs,Delhi,Paneer Butter Masala,Veg,Half,286,50,336,Packed,4.5
+509,Thakur Chiefs,Delhi,Rajma Chawal,Veg,Full,290,50,340,Packed,1.1
+510,Thakur Chiefs,Delhi,Mutton Rogan Josh,Non-Veg,Half,118,0,118,Unpacked,5.6
+511,Thakur Chiefs,Delhi,Dal Makhani,Veg,Half,124,0,124,Unpacked,1.4
+512,Thakur Chiefs,Delhi,Malai Kofta,Veg,Full,527,50,577,Packed,0.3
+513,Thakur Chiefs,Delhi,Aloo Gobi,Veg,Full,264,0,264,Unpacked,2.8
+514,Thakur Chiefs,Delhi,Tandoori Roti,Veg,Half,271,50,321,Packed,5.9
+515,Thakur Chiefs,Delhi,Mix Veg Curry,Veg,Half,297,0,297,Unpacked,5.0
+516,Thakur Chiefs,Delhi,Malai Kofta,Veg,Half,316,0,316,Unpacked,3.9
+517,Thakur Chiefs,Delhi,Veg Pulao,Veg,Half,317,0,317,Unpacked,2.3
+518,Thakur Chiefs,Delhi,Chicken Lollipop,Non-Veg,Half,257,0,257,Unpacked,2.1
+519,Thakur Chiefs,Delhi,Chicken Handi,Non-Veg,Full,482,0,482,Unpacked,4.8
+520,Thakur Chiefs,Delhi,Mutton Curry,Non-Veg,Half,305,50,355,Packed,2.6
+521,Thakur Chiefs,Delhi,Palak Paneer,Veg,Half,132,0,132,Unpacked,1.3
+522,Thakur Chiefs,Delhi,Veg Biryani,Veg,Half,165,0,165,Unpacked,3.6
+523,Thakur Chiefs,Delhi,Prawn Masala,Non-Veg,Half,309,50,359,Packed,2.5
+524,Thakur Chiefs,Delhi,Mix Veg Curry,Veg,Half,297,0,297,Unpacked,4.1
+525,Thakur Chiefs,Delhi,Butter Naan,Veg,Half,219,50,269,Packed,3.9
+526,Thakur Chiefs,Delhi,Baingan Bharta,Veg,Half,116,50,166,Packed,0.3
+527,Thakur Chiefs,Delhi,Mutton Rogan Josh,Non-Veg,Half,118,50,168,Packed,3.8
+528,Thakur Chiefs,Delhi,Dal Makhani,Veg,Half,124,50,174,Packed,1.0
+529,Thakur Chiefs,Delhi,Chicken Lollipop,Non-Veg,Half,257,0,257,Unpacked,3.6
+530,Thakur Chiefs,Delhi,Mutton Rogan Josh,Non-Veg,Half,118,0,118,Unpacked,5.7
+531,Thakur Chiefs,Delhi,Aloo Gobi,Veg,Full,264,0,264,Unpacked,5.2
+532,Thakur Chiefs,Delhi,Veg Biryani,Veg,Half,165,0,165,Unpacked,3.6
+533,Thakur Chiefs,Delhi,Chicken Korma,Non-Veg,Half,150,0,150,Unpacked,1.0
+534,Thakur Chiefs,Delhi,Fish Curry,Non-Veg,Full,408,0,408,Unpacked,3.6
+535,Thakur Chiefs,Delhi,Shahi Paneer,Veg,Half,97,0,97,Unpacked,2.3
+536,Thakur Chiefs,Delhi,Chole Bhature,Veg,Half,317,50,367,Packed,3.1
+537,Thakur Chiefs,Delhi,Chicken Lollipop,Non-Veg,Full,429,50,479,Packed,3.6
+538,Thakur Chiefs,Delhi,Veg Biryani,Veg,Full,275,50,325,Packed,5.3
+539,Thakur Chiefs,Delhi,Chicken Biryani,Non-Veg,Half,99,50,149,Packed,2.9
+540,Thakur Chiefs,Delhi,Rajma Chawal,Veg,Half,174,0,174,Unpacked,3.1
+541,Thakur Chiefs,Delhi,Veg Pulao,Veg,Half,317,0,317,Unpacked,1.4
+542,Thakur Chiefs,Delhi,Chicken Korma,Non-Veg,Full,251,0,251,Unpacked,2.1
+543,Thakur Chiefs,Delhi,Chicken Korma,Non-Veg,Half,150,0,150,Unpacked,0.8
+544,Thakur Chiefs,Delhi,Butter Naan,Veg,Half,219,50,269,Packed,1.7
+545,Thakur Chiefs,Delhi,Mutton Curry,Non-Veg,Full,509,0,509,Unpacked,1.1
+546,Thakur Chiefs,Delhi,Chicken Curry,Non-Veg,Half,274,50,324,Packed,3.1
+547,Thakur Chiefs,Delhi,Matar Paneer,Veg,Half,257,0,257,Unpacked,2.5
+548,Thakur Chiefs,Delhi,Chole Bhature,Veg,Half,317,0,317,Unpacked,3.9
+549,Thakur Chiefs,Delhi,Malai Kofta,Veg,Full,527,0,527,Unpacked,3.4
+550,Thakur Chiefs,Delhi,Chicken Tikka Masala,Non-Veg,Full,261,0,261,Unpacked,4.5
+551,Thakur Chiefs,Delhi,Baingan Bharta,Veg,Full,194,50,244,Packed,2.2
+552,Thakur Chiefs,Delhi,Chicken Biryani,Non-Veg,Full,165,0,165,Unpacked,5.9
+553,Thakur Chiefs,Delhi,Mutton Rogan Josh,Non-Veg,Full,197,0,197,Unpacked,4.4
+554,Thakur Chiefs,Delhi,Chicken Handi,Non-Veg,Half,289,50,339,Packed,2.7
+555,Thakur Chiefs,Delhi,Chicken Curry,Non-Veg,Half,274,50,324,Packed,1.3
+556,Thakur Chiefs,Delhi,Matar Paneer,Veg,Full,429,50,479,Packed,1.0
+557,Thakur Chiefs,Delhi,Tandoori Chicken,Non-Veg,Half,161,50,211,Packed,4.9
+558,Thakur Chiefs,Delhi,Butter Naan,Veg,Full,366,50,416,Packed,0.4
+559,Thakur Chiefs,Delhi,Palak Paneer,Veg,Full,221,50,271,Packed,3.7
+560,Thakur Chiefs,Delhi,Mutton Biryani,Non-Veg,Full,163,0,163,Unpacked,3.7
+561,Thakur Chiefs,Delhi,Butter Chicken,Non-Veg,Full,166,50,216,Packed,5.7
+562,Thakur Chiefs,Delhi,Prawn Masala,Non-Veg,Half,309,0,309,Unpacked,2.6
+563,Thakur Chiefs,Delhi,Aloo Gobi,Veg,Full,264,50,314,Packed,0.2
+564,Thakur Chiefs,Delhi,Chicken Tikka Masala,Non-Veg,Half,156,50,206,Packed,4.0
+565,Thakur Chiefs,Delhi,Veg Pulao,Veg,Half,317,50,367,Packed,5.9
+566,Thakur Chiefs,Delhi,Shahi Paneer,Veg,Full,162,0,162,Unpacked,2.1
+567,Thakur Chiefs,Delhi,Matar Paneer,Veg,Full,429,50,479,Packed,3.1
+568,Thakur Chiefs,Delhi,Mutton Biryani,Non-Veg,Half,97,50,147,Packed,3.3
+569,Thakur Chiefs,Delhi,Mutton Biryani,Non-Veg,Full,163,0,163,Unpacked,5.8
+570,Thakur Chiefs,Delhi,Malai Kofta,Veg,Half,316,50,366,Packed,2.7
+571,Thakur Chiefs,Delhi,Matar Paneer,Veg,Half,257,0,257,Unpacked,1.1
+572,Thakur Chiefs,Delhi,Butter Chicken,Non-Veg,Half,99,50,149,Packed,3.0
+573,Thakur Chiefs,Delhi,Mix Veg Curry,Veg,Half,297,0,297,Unpacked,5.3
+574,Thakur Chiefs,Delhi,Prawn Masala,Non-Veg,Full,516,0,516,Unpacked,5.8
+575,Thakur Chiefs,Delhi,Mutton Rogan Josh,Non-Veg,Full,197,50,247,Packed,4.5
+576,Thakur Chiefs,Delhi,Egg Curry,Non-Veg,Full,437,0,437,Unpacked,5.4
+577,Thakur Chiefs,Delhi,Chicken Handi,Non-Veg,Half,289,0,289,Unpacked,0.7
+578,Thakur Chiefs,Delhi,Shahi Paneer,Veg,Full,162,50,212,Packed,4.1
+579,Thakur Chiefs,Delhi,Palak Paneer,Veg,Full,221,0,221,Unpacked,5.7
+580,Thakur Chiefs,Delhi,Butter Chicken,Non-Veg,Half,99,0,99,Unpacked,1.5
